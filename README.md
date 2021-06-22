@@ -13,8 +13,8 @@ This trading strategy based on RSI isn't profitable.
 
 In the fall of 2020, bitmex started to require user identity confirmation, so I stopped developing this project.
 
-
-
+## Technologies
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 
 
 ## Modules
