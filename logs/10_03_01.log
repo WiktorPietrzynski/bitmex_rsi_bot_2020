@@ -1,0 +1,3627 @@
+/home/mrstefan_master/.local/lib/python3.8/site-packages/swagger_spec_validator/validator20.py:49: SwaggerValidationWarning: Found "$ref: #/definitions/UserPreferences" with siblings that will be overwritten. See https://stackoverflow.com/a/48114924 for more information. (path #/definitions/User/properties/preferences)
+  warnings.warn(
+/home/mrstefan_master/.local/lib/python3.8/site-packages/bravado_core/spec.py:462: Warning: JSON format is not registered with bravado-core!
+  warnings.warn(
+/home/mrstefan_master/.local/lib/python3.8/site-packages/bravado_core/spec.py:462: Warning: guid format is not registered with bravado-core!
+  warnings.warn(
+
+Order:  0
+Qty:  0
+
+Brak pozycji i zleceń
+
+RSI value:  51
+
+W8 4 RSI
+Czekaj  40 sekund
+
+RSI value:  50
+
+W8 4 RSI
+Czekaj  59 sekund
+
+RSI value:  48
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  48
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  47
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  46
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  50
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  48
+
+W8 4 RSI
+Czekaj  59 sekund
+
+RSI value:  50
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  49
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  34
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  35
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  41
+
+W8 4 RSI
+Czekaj  59 sekund
+
+RSI value:  40
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  43
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  48
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  53
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  51
+
+W8 4 RSI
+Czekaj  59 sekund
+
+RSI value:  47
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  52
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  50
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  44
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  42
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  46
+
+W8 4 RSI
+Czekaj  59 sekund
+
+RSI value:  52
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  45
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  44
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  38
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  39
+
+W8 4 RSI
+Czekaj  59 sekund
+
+RSI value:  43
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  46
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  46
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  48
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  40
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  41
+
+W8 4 RSI
+Czekaj  59 sekund
+
+RSI value:  39
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  38
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  35
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  38
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  32
+
+W8 4 RSI
+Czekaj  59 sekund
+
+RSI value:  30
+
+[32mgoing_long[0m
+2020-10-02 22:01:20.279023
+10510.5
+order id:  85a121be-5bed-4b95-91c2-3c1bbd25487b
+order status:  New
+[32mClose order submitted[0m
+
+Watching
+Side:  [32mBuy[0m
+RSI_value:  30
+
+Watching
+Side:  [32mBuy[0m
+RSI_value:  30
+
+Watching
+Side:  [32mBuy[0m
+RSI_value:  30
+
+Watching
+Side:  [32mBuy[0m
+RSI_value:  30
+
+Watching
+Side:  [32mBuy[0m
+RSI_value:  30
+
+Watching
+Side:  [32mBuy[0m
+
+change close
+change open
+RSI_value:  30
+
+Watching
+Side:  [32mBuy[0m
+RSI_value:  29
+
+Watching
+Side:  [32mBuy[0m
+RSI_value:  29
+
+Watching
+Side:  [32mBuy[0m
+RSI_value:  29
+
+Watching
+Side:  [32mBuy[0m
+RSI_value:  29
+
+Watching
+Side:  [32mBuy[0m
+RSI_value:  29
+
+Watching
+Side:  [32mBuy[0m
+RSI_value:  29
+
+Watching
+Side:  [32mBuy[0m
+RSI_value:  38
+[31mCancel long[0m
+
+Order:  0
+Qty:  0
+
+Brak pozycji i zleceń
+
+RSI value:  38
+
+W8 4 RSI
+Czekaj  45 sekund
+
+RSI value:  40
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  36
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  42
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  44
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  39
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  34
+
+W8 4 RSI
+Czekaj  59 sekund
+
+RSI value:  35
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  44
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  42
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  48
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  52
+
+W8 4 RSI
+Czekaj  59 sekund
+
+RSI value:  59
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  64
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  68
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  66
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  67
+
+W8 4 RSI
+Czekaj  59 sekund
+
+RSI value:  63
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  64
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  62
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  62
+
+W8 4 RSI
+Czekaj  59 sekund
+
+RSI value:  64
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  55
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  56
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  61
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  62
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  62
+
+W8 4 RSI
+Czekaj  59 sekund
+
+RSI value:  56
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  66
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  62
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  65
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  64
+
+W8 4 RSI
+Czekaj  59 sekund
+
+RSI value:  65
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  63
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  65
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  66
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  68
+
+W8 4 RSI
+Czekaj  59 sekund
+
+RSI value:  69
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  70
+
+[31mgoing_short[0m
+2020-10-02 22:41:20.383963
+10546.5
+order id:  7a49a341-1eaf-45bc-baf7-28681dc727e6
+order status:  New
+[32mClose order submitted[0m
+
+Watching
+
+Order:  1
+Qty:  0
+
+Brak pozycji
+
+Watching
+Side:  [31mSell[0m
+RSI_value:  70
+
+Watching
+Side:  [31mSell[0m
+RSI_value:  70
+
+Watching
+Side:  [31mSell[0m
+RSI_value:  70
+
+Watching
+Side:  [31mSell[0m
+RSI_value:  70
+
+Watching
+Side:  [31mSell[0m
+RSI_value:  70
+
+Watching
+Side:  [31mSell[0m
+RSI_value:  67
+
+Watching
+Side:  [31mSell[0m
+RSI_value:  67
+
+Watching
+Side:  [31mSell[0m
+RSI_value:  67
+
+Watching
+Side:  [31mSell[0m
+RSI_value:  67
+
+Watching
+Side:  [31mSell[0m
+RSI_value:  67
+
+Watching
+Side:  [31mSell[0m
+RSI_value:  67
+
+Watching
+Side:  [31mSell[0m
+RSI_value:  69
+
+Watching
+Side:  [31mSell[0m
+RSI_value:  69
+
+Watching
+Side:  [31mSell[0m
+RSI_value:  69
+
+Watching
+Side:  [31mSell[0m
+RSI_value:  69
+
+Watching
+Side:  [31mSell[0m
+RSI_value:  69
+
+Watching
+Side:  [31mSell[0m
+RSI_value:  59
+[31mCancel short[0m
+
+Order:  0
+Qty:  0
+
+Brak pozycji i zleceń
+
+RSI value:  59
+
+W8 4 RSI
+Czekaj  54 sekund
+
+RSI value:  60
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  56
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  55
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  53
+
+W8 4 RSI
+Czekaj  59 sekund
+
+RSI value:  51
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  48
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  53
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  50
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  44
+
+W8 4 RSI
+Czekaj  59 sekund
+
+RSI value:  42
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  41
+
+W8 4 RSI
+Czekaj  59 sekund
+
+RSI value:  43
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  45
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  44
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  47
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  53
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  55
+
+W8 4 RSI
+Czekaj  59 sekund
+
+RSI value:  50
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  46
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  47
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  48
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  62
+
+W8 4 RSI
+Czekaj  59 sekund
+
+RSI value:  65
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  58
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  55
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  55
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  54
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  53
+
+W8 4 RSI
+Czekaj  59 sekund
+
+RSI value:  56
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  50
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  50
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  43
+
+W8 4 RSI
+Czekaj  59 sekund
+
+RSI value:  40
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  38
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  35
+
+W8 4 RSI
+Czekaj  59 sekund
+
+RSI value:  28
+
+[32mgoing_long[0m
+2020-10-02 23:20:20.306837
+10532.5
+order id:  bf742cd0-d14d-4a88-ac1a-82c559f9b2f6
+order status:  New
+[32mClose order submitted[0m
+
+Watching
+
+Order:  1
+Qty:  0
+
+Brak pozycji
+
+Watching
+Side:  [32mBuy[0m
+RSI_value:  28
+
+Watching
+Side:  [32mBuy[0m
+RSI_value:  28
+
+Watching
+Side:  [32mBuy[0m
+RSI_value:  28
+
+Watching
+Side:  [32mBuy[0m
+RSI_value:  28
+
+Watching
+Side:  [32mBuy[0m
+RSI_value:  28
+
+Watching
+Side:  [32mBuy[0m
+RSI_value:  34
+
+Watching
+Side:  [32mBuy[0m
+RSI_value:  34
+
+Watching
+Side:  [32mBuy[0m
+RSI_value:  34
+
+Watching
+Side:  [32mBuy[0m
+RSI_value:  34
+
+Watching
+Side:  [32mBuy[0m
+RSI_value:  34
+
+Watching
+Side:  [32mBuy[0m
+RSI_value:  34
+
+Watching
+
+[32morders_long[0m
+10533.0
+2020-10-02 23:22:24.055498
+order id:  038a8cbe-2c16-4d0a-a22f-829c13314de2
+order status:  New
+[32mClose order submitted[0m
+
+testing_long
+2020-10-02 23:22:24.243888
+Orders:  0
+RSI_value:  31
+MPQ:  30
+Where is close order?
+
+Order:  1
+Qty:  30
+
+Wszystko jest
+
+testing_long
+2020-10-02 23:22:34.697599
+Orders:  1
+RSI_value:  31
+MPQ:  30
+[31mPrice Diff: [0m 10533.0  -  10531  =  [31m2.0[0m
+
+change close
+
+testing_long
+2020-10-02 23:22:45.216554
+Orders:  1
+RSI_value:  31
+MPQ:  30
+[31mPrice Diff: [0m 10533.0  -  10531  =  [31m2.0[0m
+
+change close
+
+testing_long
+2020-10-02 23:22:55.691527
+Orders:  1
+RSI_value:  31
+MPQ:  30
+[31mPrice Diff: [0m 10533.0  -  10531  =  [31m2.0[0m
+
+change close
+
+testing_long
+2020-10-02 23:23:06.184271
+Orders:  1
+RSI_value:  31
+MPQ:  30
+[31mPrice Diff: [0m 10533.0  -  10531  =  [31m2.0[0m
+
+change close
+
+testing_long
+2020-10-02 23:23:16.676797
+Orders:  1
+RSI_value:  28
+MPQ:  30
+[31mPrice Diff: [0m 10533.0  -  10531  =  [31m2.0[0m
+
+change close
+
+testing_long
+2020-10-02 23:23:27.199881
+Orders:  1
+RSI_value:  28
+MPQ:  30
+[31mPrice Diff: [0m 10533.0  -  10531  =  [31m2.0[0m
+
+change close
+
+testing_long
+2020-10-02 23:23:37.671652
+Orders:  1
+RSI_value:  28
+MPQ:  30
+[31mPrice Diff: [0m 10533.0  -  10531  =  [31m2.0[0m
+
+change close
+
+testing_long
+2020-10-02 23:23:48.189135
+Orders:  1
+RSI_value:  28
+MPQ:  30
+[31mPrice Diff: [0m 10533.0  -  10531  =  [31m2.0[0m
+
+change close
+
+testing_long
+2020-10-02 23:23:58.679239
+Orders:  1
+RSI_value:  28
+MPQ:  30
+[31mPrice Diff: [0m 10533.0  -  10531  =  [31m2.0[0m
+
+change close
+
+testing_long
+2020-10-02 23:24:09.171239
+Orders:  1
+RSI_value:  28
+MPQ:  30
+[31mPrice Diff: [0m 10533.0  -  10531  =  [31m2.0[0m
+
+change close
+
+testing_long
+2020-10-02 23:24:19.650401
+Orders:  1
+RSI_value:  28
+MPQ:  30
+[31mPrice Diff: [0m 10533.0  -  10531  =  [31m2.0[0m
+
+change close
+
+testing_long
+2020-10-02 23:24:30.107614
+Orders:  1
+RSI_value:  28
+MPQ:  30
+[31mPrice Diff: [0m 10533.0  -  10531  =  [31m2.0[0m
+
+change close
+
+testing_long
+2020-10-02 23:24:40.596072
+Orders:  1
+RSI_value:  28
+MPQ:  30
+[31mPrice Diff: [0m 10533.0  -  10531  =  [31m2.0[0m
+
+change close
+
+testing_long
+2020-10-02 23:24:51.059444
+Orders:  1
+RSI_value:  28
+MPQ:  30
+[31mPrice Diff: [0m 10533.0  -  10531  =  [31m2.0[0m
+
+change close
+
+testing_long
+2020-10-02 23:25:02.830992
+Orders:  1
+RSI_value:  28
+MPQ:  30
+[31mPrice Diff: [0m 10533.0  -  10531  =  [31m2.0[0m
+
+change close
+
+testing_long
+2020-10-02 23:25:13.318584
+Orders:  1
+RSI_value:  28
+MPQ:  30
+[31mPrice Diff: [0m 10533.0  -  10531  =  [31m2.0[0m
+
+change close
+
+testing_long
+2020-10-02 23:25:23.858352
+Orders:  1
+RSI_value:  28
+MPQ:  30
+[31mPrice Diff: [0m 10533.0  -  10531  =  [31m2.0[0m
+
+change close
+
+testing_long
+2020-10-02 23:25:34.330784
+Orders:  1
+RSI_value:  28
+MPQ:  30
+[31mPrice Diff: [0m 10533.0  -  10531  =  [31m2.0[0m
+
+change close
+
+testing_long
+2020-10-02 23:25:44.804887
+Orders:  1
+RSI_value:  28
+MPQ:  30
+[31mPrice Diff: [0m 10533.0  -  10531  =  [31m2.0[0m
+
+change close
+
+testing_long
+2020-10-02 23:25:55.312668
+Orders:  1
+RSI_value:  28
+MPQ:  30
+[31mPrice Diff: [0m 10533.0  -  10531  =  [31m2.0[0m
+
+change close
+
+testing_long
+2020-10-02 23:26:05.779900
+Orders:  1
+RSI_value:  28
+MPQ:  30
+[31mPrice Diff: [0m 10533.0  -  10531  =  [31m2.0[0m
+
+change close
+
+testing_long
+2020-10-02 23:26:16.291190
+Orders:  1
+RSI_value:  27
+MPQ:  30
+[31mPrice Diff: [0m 10533.0  -  10531  =  [31m2.0[0m
+
+change close
+
+testing_long
+2020-10-02 23:26:26.786252
+Orders:  1
+RSI_value:  27
+MPQ:  30
+[31mPrice Diff: [0m 10533.0  -  10531  =  [31m2.0[0m
+
+change close
+
+testing_long
+2020-10-02 23:26:37.260388
+Orders:  1
+RSI_value:  27
+MPQ:  30
+[31mPrice Diff: [0m 10533.0  -  10528.5  =  [31m4.5[0m
+
+change close
+
+testing_long
+2020-10-02 23:26:47.987809
+Orders:  1
+RSI_value:  27
+MPQ:  30
+[31mPrice Diff: [0m 10533.0  -  10527.5  =  [31m5.5[0m
+
+change close
+
+testing_long
+2020-10-02 23:26:58.516846
+Orders:  1
+RSI_value:  27
+MPQ:  30
+[31mPrice Diff: [0m 10533.0  -  10527.5  =  [31m5.5[0m
+
+change close
+
+testing_long
+2020-10-02 23:27:08.993793
+Orders:  1
+RSI_value:  27
+MPQ:  30
+[31mPrice Diff: [0m 10533.0  -  10527.5  =  [31m5.5[0m
+
+change close
+
+testing_long
+2020-10-02 23:27:19.580051
+Orders:  1
+RSI_value:  26
+MPQ:  30
+[31mPrice Diff: [0m 10533.0  -  10527  =  [31m6.0[0m
+
+change close
+
+testing_long
+2020-10-02 23:27:31.779463
+Orders:  1
+RSI_value:  26
+MPQ:  30
+[31mPrice Diff: [0m 10533.0  -  10527  =  [31m6.0[0m
+
+change close
+
+testing_long
+2020-10-02 23:27:42.278285
+Orders:  1
+RSI_value:  26
+MPQ:  30
+[31mPrice Diff: [0m 10533.0  -  10527  =  [31m6.0[0m
+
+change close
+
+testing_long
+2020-10-02 23:27:52.749330
+Orders:  1
+RSI_value:  26
+MPQ:  30
+[31mPrice Diff: [0m 10533.0  -  10527  =  [31m6.0[0m
+
+change close
+
+testing_long
+2020-10-02 23:28:03.228868
+Orders:  1
+RSI_value:  26
+MPQ:  30
+[31mPrice Diff: [0m 10533.0  -  10527  =  [31m6.0[0m
+
+change close
+
+testing_long
+2020-10-02 23:28:13.703040
+Orders:  1
+RSI_value:  26
+MPQ:  30
+[31mPrice Diff: [0m 10533.0  -  10527  =  [31m6.0[0m
+
+change close
+
+testing_long
+2020-10-02 23:28:24.220041
+Orders:  1
+RSI_value:  26
+MPQ:  30
+[31mPrice Diff: [0m 10533.0  -  10527  =  [31m6.0[0m
+
+change close
+
+testing_long
+2020-10-02 23:28:34.704401
+Orders:  1
+RSI_value:  26
+MPQ:  30
+[31mPrice Diff: [0m 10533.0  -  10525.5  =  [31m7.5[0m
+
+change close
+
+testing_long
+2020-10-02 23:28:45.271242
+Orders:  1
+RSI_value:  26
+MPQ:  30
+[31mPrice Diff: [0m 10533.0  -  10525.5  =  [31m7.5[0m
+
+change close
+
+testing_long
+2020-10-02 23:28:55.738392
+Orders:  1
+RSI_value:  26
+MPQ:  30
+[31mPrice Diff: [0m 10533.0  -  10525.5  =  [31m7.5[0m
+
+change close
+
+testing_long
+2020-10-02 23:29:06.209514
+Orders:  1
+RSI_value:  26
+MPQ:  30
+[31mPrice Diff: [0m 10533.0  -  10525.5  =  [31m7.5[0m
+
+change close
+
+testing_long
+2020-10-02 23:29:16.676644
+Orders:  1
+RSI_value:  29
+MPQ:  30
+[31mPrice Diff: [0m 10533.0  -  10525.5  =  [31m7.5[0m
+
+change close
+
+testing_long
+2020-10-02 23:29:27.161954
+Orders:  1
+RSI_value:  29
+MPQ:  30
+[31mPrice Diff: [0m 10533.0  -  10525.5  =  [31m7.5[0m
+
+change close
+
+testing_long
+2020-10-02 23:29:37.678899
+Orders:  1
+RSI_value:  29
+MPQ:  30
+[31mPrice Diff: [0m 10533.0  -  10525.5  =  [31m7.5[0m
+
+change close
+
+testing_long
+2020-10-02 23:29:48.171019
+Orders:  1
+RSI_value:  29
+MPQ:  30
+[31mPrice Diff: [0m 10533.0  -  10525.5  =  [31m7.5[0m
+
+change close
+
+testing_long
+2020-10-02 23:29:58.679630
+Orders:  1
+RSI_value:  29
+MPQ:  30
+[31mPrice Diff: [0m 10533.0  -  10523  =  [31m10.0[0m
+
+change close
+
+testing_long
+2020-10-02 23:30:09.236441
+Orders:  1
+RSI_value:  29
+MPQ:  30
+[31mPrice Diff: [0m 10533.0  -  10523  =  [31m10.0[0m
+
+change close
+
+testing_long
+2020-10-02 23:30:20.166020
+Orders:  1
+RSI_value:  24
+MPQ:  30
+[31mPrice Diff: [0m 10533.0  -  10523  =  [31m10.0[0m
+
+change close
+
+testing_long
+2020-10-02 23:30:30.656354
+Orders:  1
+RSI_value:  24
+MPQ:  30
+[31mPrice Diff: [0m 10533.0  -  10523  =  [31m10.0[0m
+
+change close
+
+testing_long
+2020-10-02 23:30:41.141445
+Orders:  1
+RSI_value:  24
+MPQ:  30
+[31mPrice Diff: [0m 10533.0  -  10523  =  [31m10.0[0m
+
+change close
+
+testing_long
+2020-10-02 23:30:51.630942
+Orders:  1
+RSI_value:  24
+MPQ:  30
+[31mPrice Diff: [0m 10533.0  -  10523  =  [31m10.0[0m
+
+change close
+
+testing_long
+2020-10-02 23:31:02.131131
+Orders:  1
+RSI_value:  24
+MPQ:  30
+[31mPrice Diff: [0m 10533.0  -  10523  =  [31m10.0[0m
+
+change close
+
+testing_long
+2020-10-02 23:31:12.697368
+Orders:  0
+RSI_value:  24
+MPQ:  0
+[31mPrice Diff: [0m 10533.0  -  10523  =  [31m10.0[0m
+
+[31mStop Loss[0m Loss: 9.5
+
+Order:  0
+Qty:  0
+
+Brak pozycji i zleceń
+
+RSI value:  31
+
+W8 4 RSI
+Czekaj  57 sekund
+
+RSI value:  34
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  35
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  34
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  38
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  41
+
+W8 4 RSI
+Czekaj  59 sekund
+
+RSI value:  47
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  46
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  50
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  46
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  47
+
+W8 4 RSI
+Czekaj  59 sekund
+
+RSI value:  46
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  24
+
+[32mgoing_long[0m
+2020-10-02 23:43:20.525687
+10518
+order id:  1088c994-b8bf-464b-a4f0-3096330329fe
+order status:  New
+[32mClose order submitted[0m
+
+Watching
+
+Order:  0
+Qty:  30
+
+Brak zleceń
+
+[32morders_long[0m
+10517.5
+2020-10-02 23:43:31.063088
+order id:  2f5322ee-44e8-4734-b27d-66422907daaa
+order status:  New
+[32mClose order submitted[0m
+
+testing_long
+2020-10-02 23:43:31.259082
+Orders:  0
+RSI_value:  24
+MPQ:  30
+Where is close order?
+
+Order:  1
+Qty:  30
+
+Wszystko jest
+
+testing_long
+2020-10-02 23:43:41.710495
+Orders:  1
+RSI_value:  24
+MPQ:  30
+[31mPrice Diff: [0m 10517.5  -  10517  =  [31m0.5[0m
+
+change close
+
+testing_long
+2020-10-02 23:43:52.263611
+Orders:  1
+RSI_value:  24
+MPQ:  30
+[31mPrice Diff: [0m 10517.5  -  10517  =  [31m0.5[0m
+
+change close
+
+testing_long
+2020-10-02 23:44:02.738258
+Orders:  1
+RSI_value:  24
+MPQ:  30
+[31mPrice Diff: [0m 10517.5  -  10506  =  [31m11.5[0m
+
+change close
+
+testing_long
+2020-10-02 23:44:13.888663
+Orders:  1
+RSI_value:  24
+MPQ:  30
+[31mPrice Diff: [0m 10517.5  -  10496.5  =  [31m21.0[0m
+
+change close
+
+testing_long
+2020-10-02 23:44:24.389944
+Orders:  0
+RSI_value:  20
+MPQ:  0
+[31mPrice Diff: [0m 10517.5  -  10496.5  =  [31m21.0[0m
+
+[31mStop Loss[0m Loss: 20.5
+
+Order:  0
+Qty:  0
+
+Brak pozycji i zleceń
+
+RSI value:  20
+
+[32mgoing_long[0m
+2020-10-02 23:44:35.039446
+10496.5
+order id:  a9f7c94f-4561-4031-a506-b4c6a1cba58b
+order status:  New
+[32mClose order submitted[0m
+
+Watching
+
+Order:  1
+Qty:  0
+
+Brak pozycji
+
+Watching
+Side:  [32mBuy[0m
+RSI_value:  20
+
+Watching
+Side:  [32mBuy[0m
+
+change close
+change open
+RSI_value:  20
+
+Watching
+Side:  [32mBuy[0m
+
+change close
+change open
+RSI_value:  20
+
+Watching
+Side:  [32mBuy[0m
+
+change close
+change open
+RSI_value:  14
+
+Watching
+Side:  [32mBuy[0m
+
+change close
+change open
+RSI_value:  14
+
+Watching
+Side:  [32mBuy[0m
+RSI_value:  14
+
+Watching
+Side:  [32mBuy[0m
+RSI_value:  14
+
+Watching
+Side:  [32mBuy[0m
+RSI_value:  14
+
+Watching
+
+[32morders_long[0m
+10513.0
+2020-10-02 23:46:08.541276
+order id:  ff6f78f2-9961-49f3-8a06-8926b6891f05
+order status:  New
+[32mClose order submitted[0m
+
+testing_long
+2020-10-02 23:46:08.735731
+Orders:  0
+RSI_value:  14
+MPQ:  30
+Where is close order?
+
+Order:  1
+Qty:  30
+
+Wszystko jest
+
+testing_long
+2020-10-02 23:46:19.162395
+Orders:  1
+RSI_value:  27
+MPQ:  30
+[31mPrice Diff: [0m 10513.0  -  10508  =  [31m5.0[0m
+
+change close
+
+testing_long
+2020-10-02 23:46:29.681470
+Orders:  1
+RSI_value:  27
+MPQ:  30
+[31mPrice Diff: [0m 10513.0  -  10508  =  [31m5.0[0m
+
+change close
+
+testing_long
+2020-10-02 23:46:40.174254
+Orders:  1
+RSI_value:  27
+MPQ:  30
+[31mPrice Diff: [0m 10513.0  -  10508  =  [31m5.0[0m
+
+change close
+
+testing_long
+2020-10-02 23:46:50.635210
+Orders:  1
+RSI_value:  27
+MPQ:  30
+[31mPrice Diff: [0m 10513.0  -  10505.5  =  [31m7.5[0m
+
+change close
+
+testing_long
+2020-10-02 23:47:01.139229
+Orders:  1
+RSI_value:  27
+MPQ:  30
+[31mPrice Diff: [0m 10513.0  -  10505  =  [31m8.0[0m
+
+change close
+
+testing_long
+2020-10-02 23:47:11.665410
+Orders:  1
+RSI_value:  27
+MPQ:  30
+[31mPrice Diff: [0m 10513.0  -  10503  =  [31m10.0[0m
+
+change close
+
+testing_long
+2020-10-02 23:47:22.185981
+Orders:  1
+RSI_value:  25
+MPQ:  30
+[31mPrice Diff: [0m 10513.0  -  10496  =  [31m17.0[0m
+
+change close
+
+testing_long
+2020-10-02 23:47:32.700722
+Orders:  1
+RSI_value:  25
+MPQ:  30
+[31mPrice Diff: [0m 10513.0  -  10490  =  [31m23.0[0m
+
+change close
+
+testing_long
+2020-10-02 23:47:44.676046
+Orders:  1
+RSI_value:  25
+MPQ:  30
+[31mPrice Diff: [0m 10513.0  -  10483.5  =  [31m29.5[0m
+
+change close
+
+testing_long
+2020-10-02 23:47:55.213193
+Orders:  0
+RSI_value:  25
+MPQ:  0
+[31mPrice Diff: [0m 10513.0  -  10489  =  [31m24.0[0m
+
+[31mStop Loss[0m Loss: 29.0
+
+Order:  0
+Qty:  0
+
+Brak pozycji i zleceń
+
+RSI value:  25
+
+[32mgoing_long[0m
+2020-10-02 23:48:06.250031
+10489.5
+order id:  1b53b5a8-da17-48a4-98d9-8231a64382a2
+order status:  New
+[32mClose order submitted[0m
+
+Watching
+
+Order:  1
+Qty:  0
+
+Brak pozycji
+
+Watching
+Side:  [32mBuy[0m
+
+change close
+change open
+RSI_value:  19
+
+Watching
+Side:  [32mBuy[0m
+RSI_value:  19
+
+Watching
+Side:  [32mBuy[0m
+
+change close
+change open
+RSI_value:  19
+
+Watching
+Side:  [32mBuy[0m
+RSI_value:  19
+
+Watching
+Side:  [32mBuy[0m
+RSI_value:  19
+
+Watching
+Side:  [32mBuy[0m
+RSI_value:  19
+
+Watching
+
+[32morders_long[0m
+10493.0
+2020-10-02 23:49:19.247353
+order id:  d2d5d91f-03d5-40dd-892b-38fc1d896bbb
+order status:  New
+[32mClose order submitted[0m
+
+testing_long
+2020-10-02 23:49:19.442196
+Orders:  0
+RSI_value:  24
+MPQ:  30
+Where is close order?
+
+Order:  1
+Qty:  30
+
+Wszystko jest
+
+testing_long
+2020-10-02 23:49:29.872377
+Orders:  1
+RSI_value:  24
+MPQ:  30
+[31mPrice Diff: [0m 10493.0  -  10486.5  =  [31m6.5[0m
+
+change close
+
+testing_long
+2020-10-02 23:49:40.646858
+Orders:  1
+RSI_value:  24
+MPQ:  30
+[31mPrice Diff: [0m 10493.0  -  10485  =  [31m8.0[0m
+
+change close
+
+testing_long
+2020-10-02 23:49:51.163501
+Orders:  1
+RSI_value:  24
+MPQ:  30
+[31mPrice Diff: [0m 10493.0  -  10485  =  [31m8.0[0m
+
+change close
+
+testing_long
+2020-10-02 23:50:01.672857
+Orders:  1
+RSI_value:  24
+MPQ:  30
+[31mPrice Diff: [0m 10493.0  -  10485  =  [31m8.0[0m
+
+change close
+
+testing_long
+2020-10-02 23:50:12.179753
+Orders:  1
+RSI_value:  24
+MPQ:  30
+[31mPrice Diff: [0m 10493.0  -  10485  =  [31m8.0[0m
+
+change close
+
+testing_long
+2020-10-02 23:50:22.646796
+Orders:  1
+RSI_value:  20
+MPQ:  30
+[31mPrice Diff: [0m 10493.0  -  10485  =  [31m8.0[0m
+
+change close
+
+testing_long
+2020-10-02 23:50:33.107511
+Orders:  1
+RSI_value:  20
+MPQ:  30
+[31mPrice Diff: [0m 10493.0  -  10485  =  [31m8.0[0m
+
+change close
+
+testing_long
+2020-10-02 23:50:43.581110
+Orders:  1
+RSI_value:  20
+MPQ:  30
+[31mPrice Diff: [0m 10493.0  -  10485  =  [31m8.0[0m
+
+change close
+
+testing_long
+2020-10-02 23:50:54.069083
+Orders:  1
+RSI_value:  20
+MPQ:  30
+[31mPrice Diff: [0m 10493.0  -  10485  =  [31m8.0[0m
+
+change close
+
+testing_long
+2020-10-02 23:51:04.547674
+Orders:  1
+RSI_value:  20
+MPQ:  30
+[31mPrice Diff: [0m 10493.0  -  10485  =  [31m8.0[0m
+
+change close
+
+testing_long
+2020-10-02 23:51:15.008097
+Orders:  1
+RSI_value:  19
+MPQ:  30
+[31mPrice Diff: [0m 10493.0  -  10484  =  [31m9.0[0m
+
+change close
+
+testing_long
+2020-10-02 23:51:25.633176
+Orders:  1
+RSI_value:  19
+MPQ:  30
+[31mPrice Diff: [0m 10493.0  -  10483.5  =  [31m9.5[0m
+
+change close
+
+testing_long
+2020-10-02 23:51:36.210618
+Orders:  1
+RSI_value:  19
+MPQ:  30
+[31mPrice Diff: [0m 10493.0  -  10478  =  [31m15.0[0m
+
+change close
+
+testing_long
+2020-10-02 23:51:46.737177
+Orders:  1
+RSI_value:  19
+MPQ:  30
+[31mPrice Diff: [0m 10493.0  -  10478  =  [31m15.0[0m
+
+change close
+
+testing_long
+2020-10-02 23:51:57.252129
+Orders:  1
+RSI_value:  19
+MPQ:  30
+[31mPrice Diff: [0m 10493.0  -  10478  =  [31m15.0[0m
+
+change close
+
+testing_long
+2020-10-02 23:52:07.779616
+Orders:  1
+RSI_value:  19
+MPQ:  30
+[31mPrice Diff: [0m 10493.0  -  10477  =  [31m16.0[0m
+
+change close
+
+testing_long
+2020-10-02 23:52:18.312104
+Orders:  1
+RSI_value:  16
+MPQ:  30
+[31mPrice Diff: [0m 10493.0  -  10469.5  =  [31m23.5[0m
+
+change close
+
+testing_long
+2020-10-02 23:52:28.846150
+Orders:  1
+RSI_value:  16
+MPQ:  30
+[31mPrice Diff: [0m 10493.0  -  10469.5  =  [31m23.5[0m
+
+change close
+
+testing_long
+2020-10-02 23:52:39.330333
+Orders:  1
+RSI_value:  16
+MPQ:  30
+[31mPrice Diff: [0m 10493.0  -  10469.5  =  [31m23.5[0m
+
+change close
+
+testing_long
+2020-10-02 23:52:49.792629
+Orders:  1
+RSI_value:  16
+MPQ:  30
+[31mPrice Diff: [0m 10493.0  -  10469.5  =  [31m23.5[0m
+
+change close
+
+testing_long
+2020-10-02 23:53:00.317799
+Orders:  0
+RSI_value:  16
+MPQ:  0
+[31mPrice Diff: [0m 10493.0  -  10470.5  =  [31m22.5[0m
+
+[31mStop Loss[0m Loss: 23.0
+
+Order:  0
+Qty:  0
+
+Brak pozycji i zleceń
+
+RSI value:  16
+
+[32mgoing_long[0m
+2020-10-02 23:53:10.975049
+10477.5
+order id:  3fdc7a70-a90a-44af-8dd4-f2e69f7358e6
+order status:  New
+[32mClose order submitted[0m
+
+Watching
+
+Order:  1
+Qty:  0
+
+Brak pozycji
+
+Watching
+Side:  [32mBuy[0m
+
+change close
+change open
+RSI_value:  17
+
+Watching
+Side:  [32mBuy[0m
+RSI_value:  17
+
+Watching
+Side:  [32mBuy[0m
+RSI_value:  17
+
+Watching
+Side:  [32mBuy[0m
+RSI_value:  17
+
+Watching
+Side:  [32mBuy[0m
+RSI_value:  17
+
+Watching
+
+[32morders_long[0m
+10481.0
+2020-10-02 23:54:13.082940
+order id:  81c0d4a8-44d7-4b51-8266-8e0e7a0a4655
+order status:  New
+[32mClose order submitted[0m
+
+testing_long
+2020-10-02 23:54:13.275909
+Orders:  0
+RSI_value:  17
+MPQ:  30
+Where is close order?
+
+Order:  1
+Qty:  30
+
+Wszystko jest
+
+testing_long
+2020-10-02 23:54:23.808398
+Orders:  1
+RSI_value:  26
+MPQ:  30
+[31mPrice Diff: [0m 10481.0  -  10470  =  [31m11.0[0m
+
+change close
+
+testing_long
+2020-10-02 23:54:35.639551
+Orders:  1
+RSI_value:  26
+MPQ:  30
+[31mPrice Diff: [0m 10481.0  -  10470  =  [31m11.0[0m
+
+change close
+
+testing_long
+2020-10-02 23:54:46.110830
+Orders:  0
+RSI_value:  26
+MPQ:  0
+[31mPrice Diff: [0m 10481.0  -  10472.5  =  [31m8.5[0m
+
+[31mStop Loss[0m Loss: 10.5
+
+Order:  0
+Qty:  0
+
+Brak pozycji i zleceń
+
+RSI value:  26
+
+[32mgoing_long[0m
+2020-10-02 23:54:56.729153
+10480
+order id:  c6072ff0-44eb-4059-93ba-bb6e5a5d42bc
+order status:  New
+[32mClose order submitted[0m
+
+Watching
+
+Order:  1
+Qty:  0
+
+Brak pozycji
+
+Watching
+Side:  [32mBuy[0m
+
+change close
+change open
+RSI_value:  26
+
+Watching
+Side:  [32mBuy[0m
+RSI_value:  25
+
+Watching
+Side:  [32mBuy[0m
+RSI_value:  25
+
+Watching
+Side:  [32mBuy[0m
+RSI_value:  25
+
+Watching
+
+[32morders_long[0m
+10481.0
+2020-10-02 23:55:48.566335
+order id:  20a73fd6-9836-4728-84bb-816897139daa
+order status:  New
+[32mClose order submitted[0m
+
+testing_long
+2020-10-02 23:55:48.761447
+Orders:  0
+RSI_value:  25
+MPQ:  30
+Where is close order?
+
+Order:  1
+Qty:  30
+
+Wszystko jest
+
+testing_long
+2020-10-02 23:55:59.181636
+Orders:  1
+RSI_value:  25
+MPQ:  30
+[32mPrice Diff: [0m 10481.0  -  10481.5  =  [32m-0.5[0m
+
+testing_long
+2020-10-02 23:56:04.504327
+Orders:  1
+RSI_value:  25
+MPQ:  30
+[31mPrice Diff: [0m 10481.0  -  10471.5  =  [31m9.5[0m
+
+change close
+
+testing_long
+2020-10-02 23:56:15.023242
+Orders:  1
+RSI_value:  23
+MPQ:  30
+[31mPrice Diff: [0m 10481.0  -  10471.5  =  [31m9.5[0m
+
+change close
+
+testing_long
+2020-10-02 23:56:25.525819
+Orders:  1
+RSI_value:  23
+MPQ:  30
+[31mPrice Diff: [0m 10481.0  -  10471.5  =  [31m9.5[0m
+
+change close
+
+testing_long
+2020-10-02 23:56:35.989762
+Orders:  1
+RSI_value:  23
+MPQ:  30
+[31mPrice Diff: [0m 10481.0  -  10471.5  =  [31m9.5[0m
+
+change close
+
+testing_long
+2020-10-02 23:56:46.457968
+Orders:  1
+RSI_value:  23
+MPQ:  30
+[31mPrice Diff: [0m 10481.0  -  10471.5  =  [31m9.5[0m
+
+change close
+
+testing_long
+2020-10-02 23:56:56.942833
+Orders:  1
+RSI_value:  23
+MPQ:  30
+[31mPrice Diff: [0m 10481.0  -  10471.5  =  [31m9.5[0m
+
+change close
+
+testing_long
+2020-10-02 23:57:07.436680
+Orders:  1
+RSI_value:  23
+MPQ:  30
+[31mPrice Diff: [0m 10481.0  -  10470  =  [31m11.0[0m
+
+change close
+
+testing_long
+2020-10-02 23:57:17.984526
+Orders:  1
+RSI_value:  21
+MPQ:  30
+[31mPrice Diff: [0m 10481.0  -  10470  =  [31m11.0[0m
+
+change close
+
+testing_long
+2020-10-02 23:57:28.457194
+Orders:  1
+RSI_value:  21
+MPQ:  30
+[31mPrice Diff: [0m 10481.0  -  10470  =  [31m11.0[0m
+
+change close
+
+testing_long
+2020-10-02 23:57:38.937299
+Orders:  0
+RSI_value:  21
+MPQ:  0
+[31mPrice Diff: [0m 10481.0  -  10475  =  [31m6.0[0m
+
+[31mStop Loss[0m Loss: 10.5
+
+Order:  0
+Qty:  0
+
+Brak pozycji i zleceń
+
+RSI value:  21
+
+[32mgoing_long[0m
+2020-10-02 23:57:49.569226
+10477
+order id:  7387640b-4c69-4763-8d4c-7fa89b00ad7a
+order status:  New
+[32mClose order submitted[0m
+
+Watching
+
+Order:  0
+Qty:  30
+
+Brak zleceń
+
+[32morders_long[0m
+10476.5
+2020-10-02 23:57:59.908207
+order id:  cbae1234-de65-4d48-b82b-dea75b8e616d
+order status:  New
+[32mClose order submitted[0m
+
+testing_long
+2020-10-02 23:58:00.144549
+Orders:  0
+RSI_value:  21
+MPQ:  30
+Where is close order?
+
+Order:  1
+Qty:  30
+
+Wszystko jest
+
+testing_long
+2020-10-02 23:58:10.582221
+Orders:  1
+RSI_value:  21
+MPQ:  30
+[31mPrice Diff: [0m 10476.5  -  10473  =  [31m3.5[0m
+
+change close
+
+testing_long
+2020-10-02 23:58:21.093209
+Orders:  1
+RSI_value:  24
+MPQ:  30
+[31mPrice Diff: [0m 10476.5  -  10473  =  [31m3.5[0m
+
+change close
+
+testing_long
+2020-10-02 23:58:31.636138
+Orders:  1
+RSI_value:  24
+MPQ:  0
+[31mPrice Diff: [0m 10476.5  -  10473  =  [31m3.5[0m
+
+[31mStop Loss[0m Loss: 3.0
+
+Order:  0
+Qty:  0
+
+Brak pozycji i zleceń
+
+RSI value:  24
+
+[32mgoing_long[0m
+2020-10-02 23:58:42.353480
+10473
+order id:  76e731de-2999-4161-9bac-3fd56560e26f
+order status:  New
+[32mClose order submitted[0m
+
+Watching
+
+Order:  1
+Qty:  0
+
+Brak pozycji
+
+Watching
+Side:  [32mBuy[0m
+RSI_value:  24
+
+Watching
+Side:  [32mBuy[0m
+RSI_value:  24
+
+Watching
+Side:  [32mBuy[0m
+RSI_value:  24
+
+Watching
+Side:  [32mBuy[0m
+RSI_value:  27
+
+Watching
+Side:  [32mBuy[0m
+RSI_value:  27
+
+Watching
+Side:  [32mBuy[0m
+RSI_value:  27
+
+Watching
+Side:  [32mBuy[0m
+RSI_value:  27
+
+Watching
+Side:  [32mBuy[0m
+RSI_value:  27
+
+Watching
+
+[32morders_long[0m
+10473.5
+2020-10-03 00:00:15.523372
+order id:  d6019805-26d6-4d7b-bb2f-c23144e3951c
+order status:  New
+[32mClose order submitted[0m
+
+testing_long
+2020-10-03 00:00:15.726651
+Orders:  0
+RSI_value:  27
+MPQ:  30
+Where is close order?
+
+Order:  0
+Qty:  0
+
+Brak pozycji i zleceń
+
+RSI value:  27
+
+[32mgoing_long[0m
+2020-10-03 00:00:26.252584
+10477.5
+order id:  e75ec5a3-0524-4112-82c7-18836da33b55
+order status:  New
+[32mClose order submitted[0m
+
+Watching
+
+Order:  1
+Qty:  0
+
+Brak pozycji
+
+Watching
+Side:  [32mBuy[0m
+
+change close
+change open
+RSI_value:  27
+
+Watching
+Side:  [32mBuy[0m
+
+change close
+change open
+RSI_value:  27
+
+Watching
+Side:  [32mBuy[0m
+RSI_value:  27
+
+Watching
+Side:  [32mBuy[0m
+
+change close
+change open
+RSI_value:  27
+
+Watching
+
+[32morders_long[0m
+10485.5
+2020-10-03 00:01:18.474079
+order id:  d2e4d470-b744-4367-87ad-7a2af8f1d46b
+order status:  New
+[32mClose order submitted[0m
+
+testing_long
+2020-10-03 00:01:18.665692
+Orders:  0
+RSI_value:  42
+MPQ:  30
+Where is close order?
+
+Order:  1
+Qty:  30
+
+Wszystko jest
+
+testing_long
+2020-10-03 00:01:29.103534
+Orders:  1
+RSI_value:  42
+MPQ:  30
+[31mPrice Diff: [0m 10485.5  -  10484.5  =  [31m1.0[0m
+
+change close
+
+testing_long
+2020-10-03 00:01:39.622933
+Orders:  1
+RSI_value:  42
+MPQ:  30
+[31mPrice Diff: [0m 10485.5  -  10484.5  =  [31m1.0[0m
+
+change close
+
+testing_long
+2020-10-03 00:01:50.094601
+Orders:  1
+RSI_value:  42
+MPQ:  30
+[31mPrice Diff: [0m 10485.5  -  10484  =  [31m1.5[0m
+
+change close
+
+testing_long
+2020-10-03 00:02:00.631396
+Orders:  1
+RSI_value:  42
+MPQ:  30
+[31mPrice Diff: [0m 10485.5  -  10484  =  [31m1.5[0m
+
+change close
+
+testing_long
+2020-10-03 00:02:11.284516
+Orders:  1
+RSI_value:  42
+MPQ:  30
+[31mPrice Diff: [0m 10485.5  -  10484  =  [31m1.5[0m
+
+change close
+
+testing_long
+2020-10-03 00:02:21.815796
+Orders:  1
+RSI_value:  41
+MPQ:  30
+[31mPrice Diff: [0m 10485.5  -  10484  =  [31m1.5[0m
+
+change close
+
+testing_long
+2020-10-03 00:02:32.348573
+Orders:  1
+RSI_value:  41
+MPQ:  30
+[31mPrice Diff: [0m 10485.5  -  10484  =  [31m1.5[0m
+
+change close
+
+testing_long
+2020-10-03 00:02:42.827870
+Orders:  1
+RSI_value:  41
+MPQ:  30
+[31mPrice Diff: [0m 10485.5  -  10484  =  [31m1.5[0m
+
+change close
+
+testing_long
+2020-10-03 00:02:53.307029
+Orders:  1
+RSI_value:  41
+MPQ:  30
+[31mPrice Diff: [0m 10485.5  -  10484  =  [31m1.5[0m
+
+change close
+
+testing_long
+2020-10-03 00:03:03.779692
+Orders:  1
+RSI_value:  41
+MPQ:  30
+[31mPrice Diff: [0m 10485.5  -  10484  =  [31m1.5[0m
+
+change close
+
+testing_long
+2020-10-03 00:03:14.288395
+Orders:  1
+RSI_value:  41
+MPQ:  30
+[31mPrice Diff: [0m 10485.5  -  10484  =  [31m1.5[0m
+
+change close
+
+testing_long
+2020-10-03 00:03:24.769230
+Orders:  1
+RSI_value:  38
+MPQ:  30
+[31mPrice Diff: [0m 10485.5  -  10484  =  [31m1.5[0m
+
+change close
+
+testing_long
+2020-10-03 00:03:35.250905
+Orders:  1
+RSI_value:  38
+MPQ:  30
+[31mPrice Diff: [0m 10485.5  -  10484  =  [31m1.5[0m
+
+change close
+
+testing_long
+2020-10-03 00:03:45.728611
+Orders:  1
+RSI_value:  38
+MPQ:  30
+[31mPrice Diff: [0m 10485.5  -  10484  =  [31m1.5[0m
+
+change close
+
+testing_long
+2020-10-03 00:03:56.217086
+Orders:  1
+RSI_value:  38
+MPQ:  30
+[31mPrice Diff: [0m 10485.5  -  10484  =  [31m1.5[0m
+
+change close
+
+testing_long
+2020-10-03 00:04:06.683174
+Orders:  1
+RSI_value:  38
+MPQ:  30
+[31mPrice Diff: [0m 10485.5  -  10480  =  [31m5.5[0m
+
+change close
+
+testing_long
+2020-10-03 00:04:17.196907
+Orders:  1
+RSI_value:  36
+MPQ:  30
+[31mPrice Diff: [0m 10485.5  -  10478.5  =  [31m7.0[0m
+
+change close
+
+testing_long
+2020-10-03 00:04:27.734813
+Orders:  1
+RSI_value:  36
+MPQ:  30
+[31mPrice Diff: [0m 10485.5  -  10478.5  =  [31m7.0[0m
+
+change close
+
+testing_long
+2020-10-03 00:04:38.236414
+Orders:  1
+RSI_value:  36
+MPQ:  30
+[31mPrice Diff: [0m 10485.5  -  10477  =  [31m8.5[0m
+
+change close
+
+testing_long
+2020-10-03 00:04:50.205983
+Orders:  1
+RSI_value:  36
+MPQ:  30
+[31mPrice Diff: [0m 10485.5  -  10477  =  [31m8.5[0m
+
+change close
+
+testing_long
+2020-10-03 00:05:00.676458
+Orders:  1
+RSI_value:  36
+MPQ:  30
+[31mPrice Diff: [0m 10485.5  -  10476.5  =  [31m9.0[0m
+
+change close
+
+testing_long
+2020-10-03 00:05:11.203923
+Orders:  1
+RSI_value:  36
+MPQ:  30
+[31mPrice Diff: [0m 10485.5  -  10476.5  =  [31m9.0[0m
+
+change close
+
+testing_long
+2020-10-03 00:05:21.695036
+Orders:  1
+RSI_value:  34
+MPQ:  0
+[31mPrice Diff: [0m 10485.5  -  10476.5  =  [31m9.0[0m
+
+[31mStop Loss[0m Loss: 8.5
+
+Order:  0
+Qty:  0
+
+Brak pozycji i zleceń
+
+RSI value:  34
+
+W8 4 RSI
+Czekaj  48 sekund
+
+RSI value:  41
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  43
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  45
+
+W8 4 RSI
+Czekaj  59 sekund
+
+RSI value:  48
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  45
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  50
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  48
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  49
+
+W8 4 RSI
+Czekaj  59 sekund
+
+RSI value:  47
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  56
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  52
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  50
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  47
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  53
+
+W8 4 RSI
+Czekaj  59 sekund
+
+RSI value:  57
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  56
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  58
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  60
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  68
+
+W8 4 RSI
+Czekaj  59 sekund
+
+RSI value:  69
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  69
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  68
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  71
+
+[31mgoing_short[0m
+2020-10-03 00:28:20.816630
+10519.5
+order id:  285be3ba-66f8-49f8-b1af-10cd435887a9
+order status:  New
+[32mClose order submitted[0m
+
+Watching
+Side:  [31mSell[0m
+RSI_value:  71
+
+Watching
+Side:  [31mSell[0m
+RSI_value:  71
+
+Watching
+Side:  [31mSell[0m
+RSI_value:  71
+
+Watching
+Side:  [31mSell[0m
+RSI_value:  71
+
+Watching
+Side:  [31mSell[0m
+RSI_value:  71
+
+Watching
+Side:  [31mSell[0m
+RSI_value:  71
+
+Watching
+Side:  [31mSell[0m
+RSI_value:  71
+
+Watching
+Side:  [31mSell[0m
+RSI_value:  71
+
+Watching
+
+[31morders short[0m
+10519.5
+2020-10-03 00:29:44.253531
+order id:  6c1b4606-b164-48a5-8711-ef26c6de62ef
+order status:  New
+[32mClose order submitted[0m
+
+testing_short
+2020-10-03 00:29:44.453163
+MPQ:  -30
+Orders:  0
+RSI value:  71
+Where is close order?
+
+Order:  1
+Qty:  -30
+
+Wszystko jest
+
+testing_short
+2020-10-03 00:29:54.880453
+MPQ:  -30
+Orders:  1
+RSI value:  71
+Price Diff:  10519.5  -  10519.5  =  0.0
+
+testing_short
+2020-10-03 00:30:00.204926
+MPQ:  -30
+Orders:  1
+RSI value:  71
+Price Diff:  10519.5  -  10519.5  =  0.0
+
+testing_short
+2020-10-03 00:30:05.603875
+MPQ:  -30
+Orders:  1
+RSI value:  71
+Price Diff:  10519.5  -  10519.5  =  0.0
+
+testing_short
+2020-10-03 00:30:10.905532
+MPQ:  -30
+Orders:  1
+RSI value:  71
+Price Diff:  10519.5  -  10519.5  =  0.0
+
+testing_short
+2020-10-03 00:30:16.224862
+MPQ:  -30
+Orders:  1
+RSI value:  74
+Price Diff:  10519.5  -  10519.5  =  0.0
+
+testing_short
+2020-10-03 00:30:21.544235
+MPQ:  -30
+Orders:  1
+RSI value:  74
+Price Diff:  10519.5  -  10519.5  =  0.0
+
+testing_short
+2020-10-03 00:30:26.871738
+MPQ:  -30
+Orders:  1
+RSI value:  74
+Price Diff:  10519.5  -  10519.5  =  0.0
+
+testing_short
+2020-10-03 00:30:32.191545
+MPQ:  -30
+Orders:  1
+RSI value:  74
+Price Diff:  10519.5  -  10519.5  =  0.0
+
+testing_short
+2020-10-03 00:30:37.509901
+MPQ:  -30
+Orders:  1
+RSI value:  74
+Price Diff:  10519.5  -  10519.5  =  0.0
+
+testing_short
+2020-10-03 00:30:42.811834
+MPQ:  -30
+Orders:  1
+RSI value:  74
+Price Diff:  10519.5  -  10519.5  =  0.0
+
+testing_short
+2020-10-03 00:30:48.146838
+MPQ:  -30
+Orders:  1
+RSI value:  74
+Price Diff:  10519.5  -  10519.5  =  0.0
+
+testing_short
+2020-10-03 00:30:53.479725
+MPQ:  -30
+Orders:  1
+RSI value:  74
+[31mPrice Diff: [0m 10519.5  -  10520  =  [31m-0.5[0m
+
+change close
+
+testing_short
+2020-10-03 00:31:04.075562
+MPQ:  -30
+Orders:  1
+RSI value:  74
+[31mPrice Diff: [0m 10519.5  -  10529.5  =  [31m-10.0[0m
+
+change close
+
+testing_short
+2020-10-03 00:31:14.720528
+MPQ:  -30
+Orders:  1
+RSI value:  74
+[31mPrice Diff: [0m 10519.5  -  10538.5  =  [31m-19.0[0m
+
+change close
+
+testing_short
+2020-10-03 00:31:25.259980
+MPQ:  -30
+Orders:  1
+RSI value:  77
+[31mPrice Diff: [0m 10519.5  -  10542.5  =  [31m-23.0[0m
+
+change close
+
+testing_short
+2020-10-03 00:31:35.778320
+MPQ:  -30
+Orders:  1
+RSI value:  77
+[31mPrice Diff: [0m 10519.5  -  10542.5  =  [31m-23.0[0m
+
+change close
+
+testing_short
+2020-10-03 00:31:46.280391
+MPQ:  -30
+Orders:  1
+RSI value:  77
+[31mPrice Diff: [0m 10519.5  -  10542.5  =  [31m-23.0[0m
+
+change close
+
+testing_short
+2020-10-03 00:31:56.775475
+MPQ:  -30
+Orders:  1
+RSI value:  77
+[31mPrice Diff: [0m 10519.5  -  10546  =  [31m-26.5[0m
+
+change close
+
+testing_short
+2020-10-03 00:32:07.376310
+MPQ:  -30
+Orders:  1
+RSI value:  77
+[31mPrice Diff: [0m 10519.5  -  10546  =  [31m-26.5[0m
+
+change close
+
+testing_short
+2020-10-03 00:32:17.854403
+MPQ:  -30
+Orders:  1
+RSI value:  84
+[31mPrice Diff: [0m 10519.5  -  10546  =  [31m-26.5[0m
+
+change close
+
+testing_short
+2020-10-03 00:32:28.336300
+MPQ:  -30
+Orders:  1
+RSI value:  84
+[31mPrice Diff: [0m 10519.5  -  10546  =  [31m-26.5[0m
+
+change close
+
+testing_short
+2020-10-03 00:32:38.816001
+MPQ:  -30
+Orders:  1
+RSI value:  84
+[31mPrice Diff: [0m 10519.5  -  10546  =  [31m-26.5[0m
+
+change close
+
+testing_short
+2020-10-03 00:32:49.292884
+MPQ:  -30
+Orders:  1
+RSI value:  84
+[31mPrice Diff: [0m 10519.5  -  10546  =  [31m-26.5[0m
+
+change close
+
+testing_short
+2020-10-03 00:32:59.826657
+MPQ:  -30
+Orders:  1
+RSI value:  84
+[31mPrice Diff: [0m 10519.5  -  10546  =  [31m-26.5[0m
+
+change close
+
+testing_short
+2020-10-03 00:33:10.325662
+MPQ:  -30
+Orders:  1
+RSI value:  84
+[31mPrice Diff: [0m 10519.5  -  10546  =  [31m-26.5[0m
+
+change close
+
+testing_short
+2020-10-03 00:33:20.795250
+MPQ:  -30
+Orders:  1
+RSI value:  84
+[31mPrice Diff: [0m 10519.5  -  10546  =  [31m-26.5[0m
+
+change close
+
+testing_short
+2020-10-03 00:33:31.295407
+MPQ:  -30
+Orders:  1
+RSI value:  84
+[31mPrice Diff: [0m 10519.5  -  10548.5  =  [31m-29.0[0m
+
+change close
+
+testing_short
+2020-10-03 00:33:41.868683
+MPQ:  -30
+Orders:  1
+RSI value:  84
+[31mPrice Diff: [0m 10519.5  -  10577  =  [31m-57.5[0m
+
+change close
+
+testing_short
+2020-10-03 00:33:53.095225
+MPQ:  0
+Orders:  0
+RSI value:  84
+[31mPrice Diff: [0m 10519.5  -  10576  =  [31m-56.5[0m
+
+[31mStop Loss[0m Loss: -57.0
+
+Order:  0
+Qty:  0
+
+Brak pozycji i zleceń
+
+RSI value:  84
+
+[31mgoing_short[0m
+2020-10-03 00:34:04.700871
+10570.5
+order id:  714916a3-1003-4acd-8e7d-2734962ac26a
+order status:  New
+[32mClose order submitted[0m
+
+Watching
+
+Order:  1
+Qty:  0
+
+Brak pozycji
+
+Watching
+Side:  [31mSell[0m
+
+change close
+RSI_value:  88
+
+Watching
+Side:  [31mSell[0m
+
+change close
+RSI_value:  88
+
+Watching
+Side:  [31mSell[0m
+
+change close
+RSI_value:  88
+
+Watching
+
+[31morders short[0m
+10561.0
+2020-10-03 00:34:46.861689
+order id:  5a98f1c5-dfc7-49d4-9ca6-fe0d01748400
+order status:  New
+[32mClose order submitted[0m
+
+testing_short
+2020-10-03 00:34:47.089955
+MPQ:  -30
+Orders:  0
+RSI value:  88
+Where is close order?
+
+Order:  1
+Qty:  -30
+
+Wszystko jest
+
+testing_short
+2020-10-03 00:34:57.519113
+MPQ:  -30
+Orders:  1
+RSI value:  88
+[31mPrice Diff: [0m 10561.0  -  10562  =  [31m-1.0[0m
+
+change close
+
+testing_short
+2020-10-03 00:35:08.029075
+MPQ:  -30
+Orders:  1
+RSI value:  88
+[31mPrice Diff: [0m 10561.0  -  10564  =  [31m-3.0[0m
+
+change close
+
+testing_short
+2020-10-03 00:35:18.546279
+MPQ:  -30
+Orders:  1
+RSI value:  86
+[31mPrice Diff: [0m 10561.0  -  10564  =  [31m-3.0[0m
+
+change close
+
+testing_short
+2020-10-03 00:35:29.053293
+MPQ:  -30
+Orders:  1
+RSI value:  86
+[31mPrice Diff: [0m 10561.0  -  10567  =  [31m-6.0[0m
+
+change close
+
+testing_short
+2020-10-03 00:35:39.625260
+MPQ:  -30
+Orders:  1
+RSI value:  86
+[31mPrice Diff: [0m 10561.0  -  10567  =  [31m-6.0[0m
+
+change close
+
+testing_short
+2020-10-03 00:35:50.110540
+MPQ:  -30
+Orders:  1
+RSI value:  86
+[31mPrice Diff: [0m 10561.0  -  10567  =  [31m-6.0[0m
+
+change close
+
+testing_short
+2020-10-03 00:36:00.611163
+MPQ:  0
+Orders:  0
+RSI value:  86
+[31mPrice Diff: [0m 10561.0  -  10563.5  =  [31m-2.5[0m
+
+[31mStop Loss[0m Loss: -5.5
+
+Order:  0
+Qty:  0
+
+Brak pozycji i zleceń
+
+RSI value:  86
+
+[31mgoing_short[0m
+2020-10-03 00:36:11.248465
+10563.5
+order id:  22dfd7bd-5f30-492c-a427-a24f7b9489ca
+order status:  New
+[32mClose order submitted[0m
+
+Watching
+
+Order:  1
+Qty:  0
+
+Brak pozycji
+
+Watching
+Side:  [31mSell[0m
+RSI_value:  83
+
+Watching
+Side:  [31mSell[0m
+
+change close
+RSI_value:  83
+
+Watching
+
+[31morders short[0m
+10563.0
+2020-10-03 00:36:42.392506
+order id:  f3ac2dd2-d198-492a-a7be-1e7c836e0b5d
+order status:  New
+[32mClose order submitted[0m
+
+testing_short
+2020-10-03 00:36:42.582447
+MPQ:  -30
+Orders:  0
+RSI value:  83
+Where is close order?
+
+Order:  1
+Qty:  -30
+
+Wszystko jest
+
+testing_short
+2020-10-03 00:36:53.004677
+MPQ:  -30
+Orders:  1
+RSI value:  83
+[31mPrice Diff: [0m 10563.0  -  10569.5  =  [31m-6.5[0m
+
+change close
+
+testing_short
+2020-10-03 00:37:03.513287
+MPQ:  -30
+Orders:  1
+RSI value:  83
+[31mPrice Diff: [0m 10563.0  -  10569.5  =  [31m-6.5[0m
+
+change close
+
+testing_short
+2020-10-03 00:37:13.994698
+MPQ:  0
+Orders:  0
+RSI value:  83
+[31mPrice Diff: [0m 10563.0  -  10565.5  =  [31m-2.5[0m
+
+[31mStop Loss[0m Loss: -6.0
+
+Order:  0
+Qty:  0
+
+Brak pozycji i zleceń
+
+RSI value:  83
+
+[31mgoing_short[0m
+2020-10-03 00:37:24.629315
+10564
+order id:  ca266323-a8e6-41af-bc1c-9e35a0d1f6c1
+order status:  New
+[32mClose order submitted[0m
+
+Watching
+
+Order:  1
+Qty:  0
+
+Brak pozycji
+
+Watching
+Side:  [31mSell[0m
+RSI_value:  83
+
+Watching
+Side:  [31mSell[0m
+RSI_value:  83
+
+Watching
+Side:  [31mSell[0m
+RSI_value:  83
+
+Watching
+Side:  [31mSell[0m
+RSI_value:  83
+
+Watching
+Side:  [31mSell[0m
+RSI_value:  77
+
+Watching
+Side:  [31mSell[0m
+RSI_value:  77
+
+Watching
+Side:  [31mSell[0m
+RSI_value:  77
+
+Watching
+Side:  [31mSell[0m
+RSI_value:  77
+
+Watching
+Side:  [31mSell[0m
+RSI_value:  77
+
+Watching
+Side:  [31mSell[0m
+RSI_value:  77
+
+Watching
+Side:  [31mSell[0m
+
+change close
+RSI_value:  77
+
+Watching
+Side:  [31mSell[0m
+
+change close
+RSI_value:  77
+
+Watching
+Side:  [31mSell[0m
+RSI_value:  77
+
+Watching
+Side:  [31mSell[0m
+RSI_value:  77
+
+Watching
+Side:  [31mSell[0m
+RSI_value:  77
+
+Watching
+Side:  [31mSell[0m
+RSI_value:  77
+
+Watching
+Side:  [31mSell[0m
+RSI_value:  67
+
+Watching
+Side:  [31mSell[0m
+RSI_value:  67
+
+Watching
+Side:  [31mSell[0m
+RSI_value:  67
+
+Watching
+Side:  [31mSell[0m
+RSI_value:  67
+
+Watching
+Side:  [31mSell[0m
+RSI_value:  67
+
+Watching
+Side:  [31mSell[0m
+
+change close
+RSI_value:  67
+
+Watching
+Side:  [31mSell[0m
+
+change close
+RSI_value:  68
+
+Watching
+Side:  [31mSell[0m
+
+change close
+RSI_value:  68
+
+Watching
+Side:  [31mSell[0m
+
+change close
+RSI_value:  68
+
+Watching
+Side:  [31mSell[0m
+
+change close
+RSI_value:  68
+
+Watching
+Side:  [31mSell[0m
+RSI_value:  68
+
+Watching
+Side:  [31mSell[0m
+
+change close
+RSI_value:  58
+[31mCancel short[0m
+
+Order:  0
+Qty:  0
+
+Brak pozycji i zleceń
+
+RSI value:  58
+
+W8 4 RSI
+Czekaj  54 sekund
+
+RSI value:  60
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  65
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  65
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  65
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  64
+
+W8 4 RSI
+Czekaj  59 sekund
+
+RSI value:  61
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  54
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  56
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  62
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  54
+
+W8 4 RSI
+Czekaj  59 sekund
+
+RSI value:  52
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  60
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  56
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  60
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  59
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  52
+
+W8 4 RSI
+Czekaj  59 sekund
+
+RSI value:  55
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  54
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  53
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  53
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  54
+
+W8 4 RSI
+Czekaj  58 sekund
+
+RSI value:  53
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  57
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  62
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  54
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  57
+
+W8 4 RSI
+Czekaj  59 sekund
+
+RSI value:  56
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  55
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  55
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  49
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  49
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  50
+
+W8 4 RSI
+Czekaj  59 sekund
+
+RSI value:  51
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  57
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  55
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  61
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  58
+
+W8 4 RSI
+Czekaj  59 sekund
+
+RSI value:  58
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  54
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  56
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  58
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  58
+
+W8 4 RSI
+Czekaj  59 sekund
+
+RSI value:  55
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  57
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  58
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  57
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  58
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  54
+
+W8 4 RSI
+Czekaj  59 sekund
+
+RSI value:  62
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  56
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  49
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  48
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  53
+
+W8 4 RSI
+Czekaj  59 sekund
+
+RSI value:  54
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  56
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  55
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  49
+
+W8 4 RSI
+Czekaj  59 sekund
+
+RSI value:  49
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  55
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  55
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  54
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  53
+
+W8 4 RSI
+Czekaj  59 sekund
+
+RSI value:  42
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  39
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  51
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  46
+
+W8 4 RSI
+Czekaj  60 sekund

@@ -1,0 +1,12 @@
+/home/mrstefan_master/.local/lib/python3.6/site-packages/swagger_spec_validator/validator20.py:53: SwaggerValidationWarning: Found "$ref: #/definitions/UserPreferences" with siblings that will be overwritten. See https://stackoverflow.com/a/48114924 for more information. (path #/definitions/User/properties/preferences)
+  ref_dict['$ref'], '/'.join(path),
+/home/mrstefan_master/.local/lib/python3.6/site-packages/bravado_core/spec.py:464: Warning: JSON format is not registered with bravado-core!
+  category=Warning,
+/home/mrstefan_master/.local/lib/python3.6/site-packages/bravado_core/spec.py:464: Warning: guid format is not registered with bravado-core!
+  category=Warning,
+Traceback (most recent call last):
+  File "new_rsi.py", line 1044, in <module>
+    start(my_size)
+  File "new_rsi.py", line 1002, in start
+    my_position_qty=position_list[0]["currentQty"]
+IndexError: list index out of range

@@ -1,0 +1,2618 @@
+/home/mrstefan_master/.local/lib/python3.6/site-packages/swagger_spec_validator/validator20.py:53: SwaggerValidationWarning: Found "$ref: #/definitions/UserPreferences" with siblings that will be overwritten. See https://stackoverflow.com/a/48114924 for more information. (path #/definitions/User/properties/preferences)
+  ref_dict['$ref'], '/'.join(path),
+/home/mrstefan_master/.local/lib/python3.6/site-packages/bravado_core/spec.py:464: Warning: JSON format is not registered with bravado-core!
+  category=Warning,
+/home/mrstefan_master/.local/lib/python3.6/site-packages/bravado_core/spec.py:464: Warning: guid format is not registered with bravado-core!
+  category=Warning,
+
+Order:  1
+Qty:  -30
+
+Wszystko jest
+
+testing_short
+2020-09-15 23:14:15.260570
+MPQ:  -30
+RSI value:  40
+[31mPrice Diff: [0m 10848.5  -  10858  =  [31m-9.5[0m
+
+testing_short
+2020-09-15 23:14:25.567426
+MPQ:  -30
+RSI value:  40
+[31mPrice Diff: [0m 10848.5  -  10858  =  [31m-9.5[0m
+
+testing_short
+2020-09-15 23:14:35.864211
+MPQ:  -30
+RSI value:  40
+[31mPrice Diff: [0m 10848.5  -  10858  =  [31m-9.5[0m
+
+testing_short
+2020-09-15 23:14:46.152769
+MPQ:  -30
+RSI value:  40
+[31mPrice Diff: [0m 10848.5  -  10858  =  [31m-9.5[0m
+
+testing_short
+2020-09-15 23:14:56.437761
+MPQ:  -30
+RSI value:  40
+[31mPrice Diff: [0m 10848.5  -  10858  =  [31m-9.5[0m
+
+testing_short
+2020-09-15 23:15:06.721475
+MPQ:  -30
+RSI value:  40
+[31mPrice Diff: [0m 10848.5  -  10858  =  [31m-9.5[0m
+
+testing_short
+2020-09-15 23:15:17.012858
+MPQ:  -30
+RSI value:  45
+[31mPrice Diff: [0m 10848.5  -  10858  =  [31m-9.5[0m
+
+testing_short
+2020-09-15 23:15:27.336143
+MPQ:  -30
+RSI value:  45
+[31mPrice Diff: [0m 10848.5  -  10858  =  [31m-9.5[0m
+
+testing_short
+2020-09-15 23:15:37.613718
+MPQ:  -30
+RSI value:  45
+[31mPrice Diff: [0m 10848.5  -  10858  =  [31m-9.5[0m
+
+testing_short
+2020-09-15 23:15:47.900890
+MPQ:  -30
+RSI value:  45
+[31mPrice Diff: [0m 10848.5  -  10858  =  [31m-9.5[0m
+
+testing_short
+2020-09-15 23:15:58.187916
+MPQ:  -30
+RSI value:  45
+[31mPrice Diff: [0m 10848.5  -  10858  =  [31m-9.5[0m
+
+testing_short
+2020-09-15 23:16:08.475637
+MPQ:  -30
+RSI value:  45
+[31mPrice Diff: [0m 10848.5  -  10858  =  [31m-9.5[0m
+
+testing_short
+2020-09-15 23:16:18.758145
+MPQ:  -30
+RSI value:  51
+[31mPrice Diff: [0m 10848.5  -  10858  =  [31m-9.5[0m
+
+testing_short
+2020-09-15 23:16:29.097791
+MPQ:  -30
+RSI value:  51
+[31mPrice Diff: [0m 10848.5  -  10858  =  [31m-9.5[0m
+
+testing_short
+2020-09-15 23:16:39.377098
+MPQ:  -30
+RSI value:  51
+[31mPrice Diff: [0m 10848.5  -  10858  =  [31m-9.5[0m
+
+testing_short
+2020-09-15 23:16:49.666488
+MPQ:  -30
+RSI value:  51
+[31mPrice Diff: [0m 10848.5  -  10858  =  [31m-9.5[0m
+
+testing_short
+2020-09-15 23:16:59.944552
+MPQ:  -30
+RSI value:  51
+[31mPrice Diff: [0m 10848.5  -  10858  =  [31m-9.5[0m
+
+testing_short
+2020-09-15 23:17:10.228817
+MPQ:  -30
+RSI value:  51
+[31mPrice Diff: [0m 10848.5  -  10858  =  [31m-9.5[0m
+
+testing_short
+2020-09-15 23:17:20.519770
+MPQ:  -30
+RSI value:  51
+[31mPrice Diff: [0m 10848.5  -  10858  =  [31m-9.5[0m
+
+testing_short
+2020-09-15 23:17:30.833376
+MPQ:  -30
+RSI value:  51
+[31mPrice Diff: [0m 10848.5  -  10858  =  [31m-9.5[0m
+
+testing_short
+2020-09-15 23:17:41.104351
+MPQ:  -30
+RSI value:  51
+[31mPrice Diff: [0m 10848.5  -  10858  =  [31m-9.5[0m
+
+testing_short
+2020-09-15 23:17:51.383634
+MPQ:  -30
+RSI value:  51
+[31mPrice Diff: [0m 10848.5  -  10858  =  [31m-9.5[0m
+
+testing_short
+2020-09-15 23:18:01.675826
+MPQ:  -30
+RSI value:  51
+[31mPrice Diff: [0m 10848.5  -  10858  =  [31m-9.5[0m
+
+testing_short
+2020-09-15 23:18:11.960412
+MPQ:  -30
+RSI value:  51
+[31mPrice Diff: [0m 10848.5  -  10858  =  [31m-9.5[0m
+
+testing_short
+2020-09-15 23:18:22.250910
+MPQ:  -30
+RSI value:  55
+[31mPrice Diff: [0m 10848.5  -  10858  =  [31m-9.5[0m
+
+testing_short
+2020-09-15 23:18:32.579030
+MPQ:  -30
+RSI value:  55
+[31mPrice Diff: [0m 10848.5  -  10858  =  [31m-9.5[0m
+
+testing_short
+2020-09-15 23:18:42.872131
+MPQ:  -30
+RSI value:  55
+[31mPrice Diff: [0m 10848.5  -  10858  =  [31m-9.5[0m
+
+testing_short
+2020-09-15 23:18:53.158005
+MPQ:  -30
+RSI value:  55
+[31mPrice Diff: [0m 10848.5  -  10858  =  [31m-9.5[0m
+
+testing_short
+2020-09-15 23:19:03.440059
+MPQ:  -30
+RSI value:  55
+[31mPrice Diff: [0m 10848.5  -  10858  =  [31m-9.5[0m
+
+testing_short
+2020-09-15 23:19:13.719491
+MPQ:  -30
+RSI value:  55
+[31mPrice Diff: [0m 10848.5  -  10858  =  [31m-9.5[0m
+
+testing_short
+2020-09-15 23:19:24.158665
+MPQ:  -30
+RSI value:  60
+[31mPrice Diff: [0m 10848.5  -  10858  =  [31m-9.5[0m
+
+testing_short
+2020-09-15 23:19:34.480361
+MPQ:  -30
+RSI value:  60
+[31mPrice Diff: [0m 10848.5  -  10858  =  [31m-9.5[0m
+
+testing_short
+2020-09-15 23:19:44.790216
+MPQ:  -30
+RSI value:  60
+[31mPrice Diff: [0m 10848.5  -  10858  =  [31m-9.5[0m
+
+testing_short
+2020-09-15 23:19:55.090064
+MPQ:  -30
+RSI value:  60
+[31mPrice Diff: [0m 10848.5  -  10858  =  [31m-9.5[0m
+
+testing_short
+2020-09-15 23:20:05.409950
+MPQ:  -30
+RSI value:  60
+[31mPrice Diff: [0m 10848.5  -  10858  =  [31m-9.5[0m
+
+testing_short
+2020-09-15 23:20:15.710570
+MPQ:  -30
+RSI value:  62
+[31mPrice Diff: [0m 10848.5  -  10858  =  [31m-9.5[0m
+
+testing_short
+2020-09-15 23:20:25.987735
+MPQ:  -30
+RSI value:  62
+[31mPrice Diff: [0m 10848.5  -  10858  =  [31m-9.5[0m
+
+testing_short
+2020-09-15 23:20:36.310287
+MPQ:  -30
+RSI value:  62
+[31mPrice Diff: [0m 10848.5  -  10858  =  [31m-9.5[0m
+
+testing_short
+2020-09-15 23:20:46.595590
+MPQ:  -30
+RSI value:  62
+[31mPrice Diff: [0m 10848.5  -  10858  =  [31m-9.5[0m
+
+testing_short
+2020-09-15 23:20:56.889954
+MPQ:  -30
+RSI value:  62
+[31mPrice Diff: [0m 10848.5  -  10858  =  [31m-9.5[0m
+
+testing_short
+2020-09-15 23:21:07.181559
+MPQ:  -30
+RSI value:  62
+[31mPrice Diff: [0m 10848.5  -  10858  =  [31m-9.5[0m
+
+testing_short
+2020-09-15 23:21:17.466680
+MPQ:  -30
+RSI value:  64
+[31mPrice Diff: [0m 10848.5  -  10858  =  [31m-9.5[0m
+
+testing_short
+2020-09-15 23:21:27.747645
+MPQ:  -30
+RSI value:  64
+[31mPrice Diff: [0m 10848.5  -  10858  =  [31m-9.5[0m
+
+testing_short
+2020-09-15 23:21:38.064233
+MPQ:  -30
+RSI value:  64
+[31mPrice Diff: [0m 10848.5  -  10858  =  [31m-9.5[0m
+
+testing_short
+2020-09-15 23:21:48.350482
+MPQ:  -30
+RSI value:  64
+[31mPrice Diff: [0m 10848.5  -  10858  =  [31m-9.5[0m
+
+testing_short
+2020-09-15 23:21:58.634764
+MPQ:  -30
+RSI value:  64
+[31mPrice Diff: [0m 10848.5  -  10858  =  [31m-9.5[0m
+
+testing_short
+2020-09-15 23:22:08.910004
+MPQ:  -30
+RSI value:  64
+[31mPrice Diff: [0m 10848.5  -  10858  =  [31m-9.5[0m
+
+testing_short
+2020-09-15 23:22:19.203484
+MPQ:  -30
+RSI value:  64
+[31mPrice Diff: [0m 10848.5  -  10858  =  [31m-9.5[0m
+
+testing_short
+2020-09-15 23:22:29.490574
+MPQ:  -30
+RSI value:  64
+[31mPrice Diff: [0m 10848.5  -  10858  =  [31m-9.5[0m
+
+testing_short
+2020-09-15 23:22:39.798671
+MPQ:  -30
+RSI value:  64
+[31mPrice Diff: [0m 10848.5  -  10858  =  [31m-9.5[0m
+
+testing_short
+2020-09-15 23:22:50.108011
+MPQ:  -30
+RSI value:  64
+[31mPrice Diff: [0m 10848.5  -  10858  =  [31m-9.5[0m
+
+testing_short
+2020-09-15 23:23:00.395997
+MPQ:  -30
+RSI value:  64
+[31mPrice Diff: [0m 10848.5  -  10858  =  [31m-9.5[0m
+
+testing_short
+2020-09-15 23:23:10.673449
+MPQ:  -30
+RSI value:  64
+[31mPrice Diff: [0m 10848.5  -  10858  =  [31m-9.5[0m
+
+testing_short
+2020-09-15 23:23:20.963050
+MPQ:  -30
+RSI value:  61
+[31mPrice Diff: [0m 10848.5  -  10858  =  [31m-9.5[0m
+
+testing_short
+2020-09-15 23:23:31.252487
+MPQ:  -30
+RSI value:  61
+[31mPrice Diff: [0m 10848.5  -  10858  =  [31m-9.5[0m
+
+testing_short
+2020-09-15 23:23:41.572663
+MPQ:  -30
+RSI value:  61
+[31mPrice Diff: [0m 10848.5  -  10858  =  [31m-9.5[0m
+
+testing_short
+2020-09-15 23:23:51.849087
+MPQ:  -30
+RSI value:  61
+[31mPrice Diff: [0m 10848.5  -  10858  =  [31m-9.5[0m
+
+testing_short
+2020-09-15 23:24:02.136292
+MPQ:  -30
+RSI value:  61
+[31mPrice Diff: [0m 10848.5  -  10858  =  [31m-9.5[0m
+
+testing_short
+2020-09-15 23:24:12.428837
+MPQ:  -30
+RSI value:  61
+[31mPrice Diff: [0m 10848.5  -  10858  =  [31m-9.5[0m
+
+testing_short
+2020-09-15 23:24:22.707951
+MPQ:  -30
+RSI value:  62
+[31mPrice Diff: [0m 10848.5  -  10858  =  [31m-9.5[0m
+
+testing_short
+2020-09-15 23:24:32.993428
+MPQ:  -30
+RSI value:  62
+[31mPrice Diff: [0m 10848.5  -  10858  =  [31m-9.5[0m
+
+testing_short
+2020-09-15 23:24:43.303249
+MPQ:  -30
+RSI value:  62
+[31mPrice Diff: [0m 10848.5  -  10858  =  [31m-9.5[0m
+
+testing_short
+2020-09-15 23:24:53.582046
+MPQ:  -30
+RSI value:  62
+[31mPrice Diff: [0m 10848.5  -  10858  =  [31m-9.5[0m
+
+testing_short
+2020-09-15 23:25:03.867047
+MPQ:  -30
+RSI value:  62
+[31mPrice Diff: [0m 10848.5  -  10858  =  [31m-9.5[0m
+
+testing_short
+2020-09-15 23:25:14.179396
+MPQ:  -30
+RSI value:  62
+[31mPrice Diff: [0m 10848.5  -  10858  =  [31m-9.5[0m
+
+testing_short
+2020-09-15 23:25:24.470841
+MPQ:  -30
+RSI value:  53
+[31mPrice Diff: [0m 10848.5  -  10858  =  [31m-9.5[0m
+
+testing_short
+2020-09-15 23:25:34.760024
+MPQ:  -30
+RSI value:  53
+[31mPrice Diff: [0m 10848.5  -  10858  =  [31m-9.5[0m
+
+testing_short
+2020-09-15 23:25:45.071260
+MPQ:  -30
+RSI value:  53
+[31mPrice Diff: [0m 10848.5  -  10858  =  [31m-9.5[0m
+
+testing_short
+2020-09-15 23:25:55.351350
+MPQ:  -30
+RSI value:  53
+[31mPrice Diff: [0m 10848.5  -  10858  =  [31m-9.5[0m
+
+testing_short
+2020-09-15 23:26:05.628685
+MPQ:  -30
+RSI value:  53
+[31mPrice Diff: [0m 10848.5  -  10858  =  [31m-9.5[0m
+
+testing_short
+2020-09-15 23:26:15.939626
+MPQ:  -30
+RSI value:  49
+[31mPrice Diff: [0m 10848.5  -  10858  =  [31m-9.5[0m
+
+testing_short
+2020-09-15 23:26:26.223293
+MPQ:  -30
+RSI value:  49
+[31mPrice Diff: [0m 10848.5  -  10858  =  [31m-9.5[0m
+
+testing_short
+2020-09-15 23:26:36.496297
+MPQ:  -30
+RSI value:  49
+[31mPrice Diff: [0m 10848.5  -  10858  =  [31m-9.5[0m
+
+testing_short
+2020-09-15 23:26:46.820673
+MPQ:  -30
+RSI value:  49
+[31mPrice Diff: [0m 10848.5  -  10858  =  [31m-9.5[0m
+
+testing_short
+2020-09-15 23:26:57.092165
+MPQ:  -30
+RSI value:  49
+[31mPrice Diff: [0m 10848.5  -  10858  =  [31m-9.5[0m
+
+testing_short
+2020-09-15 23:27:07.383785
+MPQ:  -30
+RSI value:  49
+[31mPrice Diff: [0m 10848.5  -  10858  =  [31m-9.5[0m
+
+testing_short
+2020-09-15 23:27:17.679114
+MPQ:  -30
+RSI value:  48
+[31mPrice Diff: [0m 10848.5  -  10860.5  =  [31m-12.0[0m
+
+testing_short
+2020-09-15 23:27:27.964298
+MPQ:  -30
+RSI value:  48
+[31mPrice Diff: [0m 10848.5  -  10860.5  =  [31m-12.0[0m
+
+testing_short
+2020-09-15 23:27:38.256059
+MPQ:  -30
+RSI value:  48
+[31mPrice Diff: [0m 10848.5  -  10860.5  =  [31m-12.0[0m
+
+testing_short
+2020-09-15 23:27:48.574082
+MPQ:  -30
+RSI value:  48
+[31mPrice Diff: [0m 10848.5  -  10860.5  =  [31m-12.0[0m
+
+testing_short
+2020-09-15 23:27:58.999092
+MPQ:  -30
+RSI value:  48
+[31mPrice Diff: [0m 10848.5  -  10860.5  =  [31m-12.0[0m
+
+testing_short
+2020-09-15 23:28:09.276621
+MPQ:  -30
+RSI value:  48
+[31mPrice Diff: [0m 10848.5  -  10860.5  =  [31m-12.0[0m
+
+testing_short
+2020-09-15 23:28:19.558803
+MPQ:  -30
+RSI value:  44
+[31mPrice Diff: [0m 10848.5  -  10860.5  =  [31m-12.0[0m
+
+testing_short
+2020-09-15 23:28:29.832407
+MPQ:  -30
+RSI value:  44
+[31mPrice Diff: [0m 10848.5  -  10864.5  =  [31m-16.0[0m
+
+testing_short
+2020-09-15 23:28:40.125686
+MPQ:  -30
+RSI value:  44
+[31mPrice Diff: [0m 10848.5  -  10868  =  [31m-19.5[0m
+
+testing_short
+2020-09-15 23:28:50.448756
+MPQ:  -30
+RSI value:  44
+[31mPrice Diff: [0m 10848.5  -  10868  =  [31m-19.5[0m
+
+testing_short
+2020-09-15 23:29:00.768730
+MPQ:  -30
+RSI value:  44
+[31mPrice Diff: [0m 10848.5  -  10868  =  [31m-19.5[0m
+
+testing_short
+2020-09-15 23:29:11.042210
+MPQ:  -30
+RSI value:  44
+[31mPrice Diff: [0m 10848.5  -  10868  =  [31m-19.5[0m
+
+testing_short
+2020-09-15 23:29:21.342256
+MPQ:  -30
+RSI value:  42
+[31mPrice Diff: [0m 10848.5  -  10866  =  [31m-17.5[0m
+
+testing_short
+2020-09-15 23:29:31.643338
+MPQ:  -30
+RSI value:  42
+[31mPrice Diff: [0m 10848.5  -  10866  =  [31m-17.5[0m
+
+testing_short
+2020-09-15 23:29:41.926355
+MPQ:  -30
+RSI value:  42
+[31mPrice Diff: [0m 10848.5  -  10866  =  [31m-17.5[0m
+
+testing_short
+2020-09-15 23:29:52.243925
+MPQ:  -30
+RSI value:  42
+[31mPrice Diff: [0m 10848.5  -  10863.5  =  [31m-15.0[0m
+
+testing_short
+2020-09-15 23:30:02.533388
+MPQ:  -30
+RSI value:  42
+[31mPrice Diff: [0m 10848.5  -  10863.5  =  [31m-15.0[0m
+
+testing_short
+2020-09-15 23:30:12.818507
+MPQ:  -30
+RSI value:  42
+[31mPrice Diff: [0m 10848.5  -  10863.5  =  [31m-15.0[0m
+
+testing_short
+2020-09-15 23:30:23.117365
+MPQ:  -30
+RSI value:  34
+[31mPrice Diff: [0m 10848.5  -  10863.5  =  [31m-15.0[0m
+
+testing_short
+2020-09-15 23:30:33.392348
+MPQ:  -30
+RSI value:  34
+[31mPrice Diff: [0m 10848.5  -  10863.5  =  [31m-15.0[0m
+
+testing_short
+2020-09-15 23:30:43.680351
+MPQ:  -30
+RSI value:  34
+[31mPrice Diff: [0m 10848.5  -  10875.5  =  [31m-27.0[0m
+reverse_short
+
+[32mmake_long[0m
+2020-09-15 23:30:44.226699
+10875
+order id:  9b818e77-7327-5226-89e9-131ba57b69e0
+order status:  New
+[32mClose order submitted[0m
+
+watching_reversed_long
+MPQ:  -30
+
+watching_reversed_long
+MPQ:  30
+
+[31mclose_for_long[0m
+10875.5
+2020-09-15 23:30:54.632316
+e-mail...
+order id:  d12a65ee-4698-d71f-a2c5-aa857238b084
+order status:  New
+[32mClose order submitted[0m
+
+test_reversed_long
+2020-09-15 23:30:54.827834
+MPQ:  30
+[31mPrice Diff: [0m 10875.5  -  10861  =  [31m14.5[0m
+
+test_reversed_long
+2020-09-15 23:31:04.984346
+MPQ:  30
+[31mPrice Diff: [0m 10875.5  -  10861.5  =  [31m14.0[0m
+
+test_reversed_long
+2020-09-15 23:31:15.141185
+MPQ:  30
+[31mPrice Diff: [0m 10875.5  -  10861.5  =  [31m14.0[0m
+
+test_reversed_long
+2020-09-15 23:31:25.303081
+MPQ:  30
+[31mPrice Diff: [0m 10875.5  -  10861.5  =  [31m14.0[0m
+
+test_reversed_long
+2020-09-15 23:31:35.477181
+MPQ:  30
+[31mPrice Diff: [0m 10875.5  -  10861.5  =  [31m14.0[0m
+
+test_reversed_long
+2020-09-15 23:31:45.636650
+MPQ:  30
+[31mPrice Diff: [0m 10875.5  -  10861.5  =  [31m14.0[0m
+
+test_reversed_long
+2020-09-15 23:31:55.809591
+MPQ:  30
+[31mPrice Diff: [0m 10875.5  -  10861.5  =  [31m14.0[0m
+
+test_reversed_long
+2020-09-15 23:32:05.975142
+MPQ:  30
+[31mPrice Diff: [0m 10875.5  -  10861.5  =  [31m14.0[0m
+
+test_reversed_long
+2020-09-15 23:32:16.140230
+MPQ:  30
+[31mPrice Diff: [0m 10875.5  -  10861.5  =  [31m14.0[0m
+
+test_reversed_long
+2020-09-15 23:32:26.312857
+MPQ:  30
+[31mPrice Diff: [0m 10875.5  -  10859.5  =  [31m16.0[0m
+
+test_reversed_long
+2020-09-15 23:32:36.466194
+MPQ:  30
+[31mPrice Diff: [0m 10875.5  -  10860.5  =  [31m15.0[0m
+
+test_reversed_long
+2020-09-15 23:32:46.633700
+MPQ:  30
+[31mPrice Diff: [0m 10875.5  -  10859.5  =  [31m16.0[0m
+
+test_reversed_long
+2020-09-15 23:32:56.809159
+MPQ:  30
+[31mPrice Diff: [0m 10875.5  -  10860  =  [31m15.5[0m
+
+test_reversed_long
+2020-09-15 23:33:06.959701
+MPQ:  30
+[31mPrice Diff: [0m 10875.5  -  10860.5  =  [31m15.0[0m
+
+test_reversed_long
+2020-09-15 23:33:17.116185
+MPQ:  30
+[31mPrice Diff: [0m 10875.5  -  10860.5  =  [31m15.0[0m
+
+test_reversed_long
+2020-09-15 23:33:27.274204
+MPQ:  30
+[31mPrice Diff: [0m 10875.5  -  10861  =  [31m14.5[0m
+
+test_reversed_long
+2020-09-15 23:33:37.441113
+MPQ:  30
+[31mPrice Diff: [0m 10875.5  -  10861.5  =  [31m14.0[0m
+
+test_reversed_long
+2020-09-15 23:33:47.599292
+MPQ:  30
+[31mPrice Diff: [0m 10875.5  -  10861.5  =  [31m14.0[0m
+
+test_reversed_long
+2020-09-15 23:33:57.779608
+MPQ:  30
+[31mPrice Diff: [0m 10875.5  -  10861.5  =  [31m14.0[0m
+
+test_reversed_long
+2020-09-15 23:34:07.937189
+MPQ:  30
+[31mPrice Diff: [0m 10875.5  -  10861.5  =  [31m14.0[0m
+
+test_reversed_long
+2020-09-15 23:34:18.124187
+MPQ:  30
+[31mPrice Diff: [0m 10875.5  -  10861.5  =  [31m14.0[0m
+
+test_reversed_long
+2020-09-15 23:34:28.272293
+MPQ:  30
+[31mPrice Diff: [0m 10875.5  -  10861.5  =  [31m14.0[0m
+
+test_reversed_long
+2020-09-15 23:34:38.428620
+MPQ:  30
+[31mPrice Diff: [0m 10875.5  -  10861.5  =  [31m14.0[0m
+
+test_reversed_long
+2020-09-15 23:34:48.585606
+MPQ:  30
+[31mPrice Diff: [0m 10875.5  -  10861.5  =  [31m14.0[0m
+
+test_reversed_long
+2020-09-15 23:34:58.761149
+MPQ:  30
+[31mPrice Diff: [0m 10875.5  -  10861.5  =  [31m14.0[0m
+
+test_reversed_long
+2020-09-15 23:35:08.926499
+MPQ:  30
+[31mPrice Diff: [0m 10875.5  -  10861.5  =  [31m14.0[0m
+
+test_reversed_long
+2020-09-15 23:35:19.087488
+MPQ:  30
+[31mPrice Diff: [0m 10875.5  -  10861.5  =  [31m14.0[0m
+
+test_reversed_long
+2020-09-15 23:35:29.240370
+MPQ:  30
+[31mPrice Diff: [0m 10875.5  -  10861.5  =  [31m14.0[0m
+
+test_reversed_long
+2020-09-15 23:35:39.397346
+MPQ:  30
+[31mPrice Diff: [0m 10875.5  -  10861.5  =  [31m14.0[0m
+
+test_reversed_long
+2020-09-15 23:35:49.554518
+MPQ:  30
+[31mPrice Diff: [0m 10875.5  -  10861.5  =  [31m14.0[0m
+
+test_reversed_long
+2020-09-15 23:35:59.733176
+MPQ:  30
+[31mPrice Diff: [0m 10875.5  -  10861.5  =  [31m14.0[0m
+
+test_reversed_long
+2020-09-15 23:36:09.890588
+MPQ:  30
+[31mPrice Diff: [0m 10875.5  -  10861.5  =  [31m14.0[0m
+
+test_reversed_long
+2020-09-15 23:36:20.060581
+MPQ:  30
+[31mPrice Diff: [0m 10875.5  -  10862.5  =  [31m13.0[0m
+
+test_reversed_long
+2020-09-15 23:36:30.227279
+MPQ:  30
+[31mPrice Diff: [0m 10875.5  -  10868  =  [31m7.5[0m
+
+test_reversed_long
+2020-09-15 23:36:40.382196
+MPQ:  30
+[31mPrice Diff: [0m 10875.5  -  10868  =  [31m7.5[0m
+
+test_reversed_long
+2020-09-15 23:36:50.540867
+MPQ:  30
+[31mPrice Diff: [0m 10875.5  -  10868  =  [31m7.5[0m
+
+test_reversed_long
+2020-09-15 23:37:00.720298
+MPQ:  30
+[31mPrice Diff: [0m 10875.5  -  10868  =  [31m7.5[0m
+
+test_reversed_long
+2020-09-15 23:37:10.877230
+MPQ:  30
+[31mPrice Diff: [0m 10875.5  -  10868  =  [31m7.5[0m
+
+test_reversed_long
+2020-09-15 23:37:21.040651
+MPQ:  30
+[31mPrice Diff: [0m 10875.5  -  10868  =  [31m7.5[0m
+
+test_reversed_long
+2020-09-15 23:37:31.203590
+MPQ:  30
+[31mPrice Diff: [0m 10875.5  -  10868  =  [31m7.5[0m
+
+test_reversed_long
+2020-09-15 23:37:41.361127
+MPQ:  30
+[31mPrice Diff: [0m 10875.5  -  10868  =  [31m7.5[0m
+
+test_reversed_long
+2020-09-15 23:37:51.566383
+MPQ:  30
+[31mPrice Diff: [0m 10875.5  -  10868  =  [31m7.5[0m
+
+test_reversed_long
+2020-09-15 23:38:01.737554
+MPQ:  30
+[31mPrice Diff: [0m 10875.5  -  10868  =  [31m7.5[0m
+
+test_reversed_long
+2020-09-15 23:38:11.888301
+MPQ:  30
+[31mPrice Diff: [0m 10875.5  -  10874  =  [31m1.5[0m
+
+test_reversed_long
+2020-09-15 23:38:22.053696
+MPQ:  30
+[31mPrice Diff: [0m 10875.5  -  10874  =  [31m1.5[0m
+
+test_reversed_long
+2020-09-15 23:38:32.213188
+MPQ:  30
+[31mPrice Diff: [0m 10875.5  -  10874  =  [31m1.5[0m
+
+test_reversed_long
+2020-09-15 23:38:42.381198
+MPQ:  30
+[31mPrice Diff: [0m 10875.5  -  10874  =  [31m1.5[0m
+
+test_reversed_long
+2020-09-15 23:38:52.538261
+MPQ:  30
+[31mPrice Diff: [0m 10875.5  -  10874.5  =  [31m1.0[0m
+
+test_reversed_long
+2020-09-15 23:39:02.720263
+MPQ:  30
+[31mPrice Diff: [0m 10875.5  -  10874.5  =  [31m1.0[0m
+
+test_reversed_long
+2020-09-15 23:39:12.880264
+MPQ:  30
+[31mPrice Diff: [0m 10875.5  -  10874.5  =  [31m1.0[0m
+
+test_reversed_long
+2020-09-15 23:39:23.024332
+MPQ:  30
+[31mPrice Diff: [0m 10875.5  -  10874.5  =  [31m1.0[0m
+
+test_reversed_long
+2020-09-15 23:39:33.179022
+MPQ:  30
+[31mPrice Diff: [0m 10875.5  -  10874.5  =  [31m1.0[0m
+
+test_reversed_long
+2020-09-15 23:39:43.353515
+MPQ:  30
+[31mPrice Diff: [0m 10875.5  -  10874.5  =  [31m1.0[0m
+
+test_reversed_long
+2020-09-15 23:39:53.516714
+MPQ:  30
+[31mPrice Diff: [0m 10875.5  -  10874.5  =  [31m1.0[0m
+
+test_reversed_long
+2020-09-15 23:40:03.700043
+MPQ:  30
+[31mPrice Diff: [0m 10875.5  -  10874.5  =  [31m1.0[0m
+
+test_reversed_long
+2020-09-15 23:40:13.862205
+MPQ:  30
+[31mPrice Diff: [0m 10875.5  -  10874.5  =  [31m1.0[0m
+
+test_reversed_long
+2020-09-15 23:40:24.018274
+MPQ:  30
+[31mPrice Diff: [0m 10875.5  -  10874.5  =  [31m1.0[0m
+
+test_reversed_long
+2020-09-15 23:40:34.184262
+MPQ:  30
+[31mPrice Diff: [0m 10875.5  -  10874.5  =  [31m1.0[0m
+
+test_reversed_long
+2020-09-15 23:40:44.344488
+MPQ:  30
+[31mPrice Diff: [0m 10875.5  -  10874.5  =  [31m1.0[0m
+
+test_reversed_long
+2020-09-15 23:40:54.504227
+MPQ:  30
+[31mPrice Diff: [0m 10875.5  -  10874.5  =  [31m1.0[0m
+
+test_reversed_long
+2020-09-15 23:41:04.769425
+MPQ:  30
+[31mPrice Diff: [0m 10875.5  -  10874.5  =  [31m1.0[0m
+
+test_reversed_long
+2020-09-15 23:41:14.940576
+MPQ:  30
+[31mPrice Diff: [0m 10875.5  -  10874.5  =  [31m1.0[0m
+
+test_reversed_long
+2020-09-15 23:41:25.217148
+MPQ:  30
+[31mPrice Diff: [0m 10875.5  -  10874.5  =  [31m1.0[0m
+
+test_reversed_long
+2020-09-15 23:41:35.388967
+MPQ:  30
+[31mPrice Diff: [0m 10875.5  -  10874.5  =  [31m1.0[0m
+
+test_reversed_long
+2020-09-15 23:41:45.551902
+MPQ:  30
+[31mPrice Diff: [0m 10875.5  -  10874.5  =  [31m1.0[0m
+
+test_reversed_long
+2020-09-15 23:41:55.719144
+MPQ:  30
+[31mPrice Diff: [0m 10875.5  -  10874.5  =  [31m1.0[0m
+
+test_reversed_long
+2020-09-15 23:42:05.902528
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10883.5  =  [32m-8.0[0m
+
+test_reversed_long
+2020-09-15 23:42:06.059150
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10883.5  =  [32m-8.0[0m
+
+test_reversed_long
+2020-09-15 23:42:06.203836
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10883.5  =  [32m-8.0[0m
+
+test_reversed_long
+2020-09-15 23:42:06.355959
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10883.5  =  [32m-8.0[0m
+
+test_reversed_long
+2020-09-15 23:42:06.510862
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10883.5  =  [32m-8.0[0m
+
+test_reversed_long
+2020-09-15 23:42:06.662457
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10883.5  =  [32m-8.0[0m
+
+test_reversed_long
+2020-09-15 23:42:06.807158
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10883.5  =  [32m-8.0[0m
+
+test_reversed_long
+2020-09-15 23:42:06.954213
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10883.5  =  [32m-8.0[0m
+
+test_reversed_long
+2020-09-15 23:42:07.097682
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10883.5  =  [32m-8.0[0m
+
+test_reversed_long
+2020-09-15 23:42:07.250792
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10883.5  =  [32m-8.0[0m
+
+test_reversed_long
+2020-09-15 23:42:07.401160
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10883.5  =  [32m-8.0[0m
+
+test_reversed_long
+2020-09-15 23:42:07.569193
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10883.5  =  [32m-8.0[0m
+
+test_reversed_long
+2020-09-15 23:42:07.715513
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10883.5  =  [32m-8.0[0m
+
+test_reversed_long
+2020-09-15 23:42:07.857373
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10883.5  =  [32m-8.0[0m
+
+test_reversed_long
+2020-09-15 23:42:07.998520
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10883.5  =  [32m-8.0[0m
+
+test_reversed_long
+2020-09-15 23:42:08.150430
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10883.5  =  [32m-8.0[0m
+
+test_reversed_long
+2020-09-15 23:42:08.299433
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10883.5  =  [32m-8.0[0m
+
+test_reversed_long
+2020-09-15 23:42:08.448572
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10883.5  =  [32m-8.0[0m
+
+test_reversed_long
+2020-09-15 23:42:08.594574
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10883.5  =  [32m-8.0[0m
+
+test_reversed_long
+2020-09-15 23:42:08.740197
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10883.5  =  [32m-8.0[0m
+
+test_reversed_long
+2020-09-15 23:42:08.881702
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10883.5  =  [32m-8.0[0m
+
+test_reversed_long
+2020-09-15 23:42:09.033247
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10883.5  =  [32m-8.0[0m
+
+test_reversed_long
+2020-09-15 23:42:09.181937
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10883.5  =  [32m-8.0[0m
+
+test_reversed_long
+2020-09-15 23:42:09.328328
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10883.5  =  [32m-8.0[0m
+
+test_reversed_long
+2020-09-15 23:42:09.478681
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10883.5  =  [32m-8.0[0m
+
+test_reversed_long
+2020-09-15 23:42:09.622306
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10883.5  =  [32m-8.0[0m
+
+test_reversed_long
+2020-09-15 23:42:09.768024
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10883.5  =  [32m-8.0[0m
+
+test_reversed_long
+2020-09-15 23:42:09.911886
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10883.5  =  [32m-8.0[0m
+
+test_reversed_long
+2020-09-15 23:42:10.053376
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10883.5  =  [32m-8.0[0m
+
+test_reversed_long
+2020-09-15 23:42:10.206337
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10883.5  =  [32m-8.0[0m
+
+test_reversed_long
+2020-09-15 23:42:10.353634
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10883.5  =  [32m-8.0[0m
+
+test_reversed_long
+2020-09-15 23:42:10.514962
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10883.5  =  [32m-8.0[0m
+
+test_reversed_long
+2020-09-15 23:42:10.668063
+MPQ:  30
+
+[31mBook error[0m
+[31m0[0m
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:42:20.931383
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:42:21.075378
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:42:21.218473
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:42:21.365879
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:42:21.514089
+MPQ:  30
+
+[31mBook error[0m
+[31m0[0m
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:42:31.781599
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:42:31.930699
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:42:32.079953
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:42:32.248496
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:42:32.401123
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:42:32.553688
+MPQ:  30
+
+[31mBook error[0m
+[31m0[0m
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:42:42.822469
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:42:42.970862
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:42:43.114073
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:42:43.259439
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:42:43.399422
+MPQ:  30
+
+[31mBook error[0m
+[31m0[0m
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:42:53.670673
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:42:53.818449
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:42:53.963574
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:42:54.119696
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:42:54.265702
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:42:54.408014
+MPQ:  30
+
+[31mBook error[0m
+[31m0[0m
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:43:04.685878
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:43:04.829825
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:43:04.971861
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:43:05.118432
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:43:05.264181
+MPQ:  30
+
+[31mBook error[0m
+[31m0[0m
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:43:15.531790
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:43:15.695220
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:43:15.845253
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:43:15.997559
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:43:16.145397
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:43:16.296539
+MPQ:  30
+
+[31mBook error[0m
+[31m0[0m
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:43:26.557203
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:43:26.696235
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:43:26.845092
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:43:26.992548
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:43:27.142974
+MPQ:  30
+
+[31mBook error[0m
+[31m0[0m
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:43:37.403706
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:43:37.545484
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:43:37.688663
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:43:37.831210
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:43:37.976895
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:43:38.124190
+MPQ:  30
+
+[31mBook error[0m
+[31m0[0m
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:43:48.389216
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:43:48.536822
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:43:48.683237
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:43:48.829697
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:43:48.980972
+MPQ:  30
+
+[31mBook error[0m
+[31m0[0m
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:43:59.244540
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:43:59.386549
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:43:59.526701
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:43:59.674989
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:43:59.815442
+MPQ:  30
+
+[31mBook error[0m
+[31m0[0m
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:44:10.110450
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:44:10.251275
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:44:10.410031
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:44:10.555652
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:44:10.710927
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:44:10.859012
+MPQ:  30
+
+[31mBook error[0m
+[31m0[0m
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:44:21.131058
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:44:21.284238
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:44:21.428001
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:44:21.573131
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:44:21.725679
+MPQ:  30
+
+[31mBook error[0m
+[31m0[0m
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:44:31.984890
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:44:32.138889
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:44:32.280358
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:44:32.430454
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:44:32.571434
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:44:32.722493
+MPQ:  30
+
+[31mBook error[0m
+[31m0[0m
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:44:42.977616
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:44:43.127700
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:44:43.276410
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:44:43.421550
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:44:43.562122
+MPQ:  30
+
+[31mBook error[0m
+[31m0[0m
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:44:53.825972
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:44:53.974649
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:44:54.118858
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:44:54.273677
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:44:54.425257
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:44:54.576690
+MPQ:  30
+
+[31mBook error[0m
+[31m0[0m
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:45:04.833213
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:45:04.977084
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:45:05.122515
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:45:05.284069
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:45:05.434149
+MPQ:  30
+
+[31mBook error[0m
+[31m0[0m
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:45:15.803225
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:45:15.950514
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:45:16.101163
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:45:16.243600
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:45:16.400033
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:45:16.548266
+MPQ:  30
+
+[31mBook error[0m
+[31m0[0m
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:45:26.817359
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:45:26.968990
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:45:27.117832
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:45:27.263935
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:45:27.410192
+MPQ:  30
+
+[31mBook error[0m
+[31m0[0m
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:45:37.682234
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:45:37.823312
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:45:37.973303
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:45:38.119628
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:45:38.267210
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:45:38.421336
+MPQ:  30
+
+[31mBook error[0m
+[31m0[0m
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:45:48.676553
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:45:48.823801
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:45:48.971604
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:45:49.124199
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:45:49.272149
+MPQ:  30
+
+[31mBook error[0m
+[31m0[0m
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:45:59.543861
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:45:59.688038
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:45:59.835989
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:45:59.987285
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:46:00.175534
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:46:00.334878
+MPQ:  30
+
+[31mBook error[0m
+[31m0[0m
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:46:10.605762
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:46:10.748824
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:46:10.892485
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:46:11.036315
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:46:11.185441
+MPQ:  30
+
+[31mBook error[0m
+[31m0[0m
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:46:21.477651
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:46:21.626904
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:46:21.784891
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:46:21.928465
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:46:22.077354
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:46:22.222217
+MPQ:  30
+
+[31mBook error[0m
+[31m0[0m
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:46:32.486545
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:46:32.638047
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:46:32.782217
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:46:32.924602
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:46:33.075896
+MPQ:  30
+
+[31mBook error[0m
+[31m0[0m
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:46:43.357231
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:46:43.509307
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:46:43.676482
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:46:43.834495
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:46:43.994084
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:46:44.157523
+MPQ:  30
+
+[31mBook error[0m
+[31m0[0m
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:46:54.433197
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:46:54.588503
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:46:54.729765
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:46:54.873273
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:46:55.020030
+MPQ:  30
+
+[31mBook error[0m
+[31m0[0m
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:47:05.282729
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:47:05.421707
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:47:05.570204
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:47:05.725699
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:47:05.876963
+MPQ:  30
+
+[31mBook error[0m
+[31m0[0m
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:47:16.147306
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:47:16.340147
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:47:16.477741
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:47:16.612914
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:47:16.762918
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:47:16.906814
+MPQ:  30
+
+[31mBook error[0m
+[31m0[0m
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:47:27.185715
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:47:27.327545
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:47:27.477799
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:47:27.615281
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:47:27.757879
+MPQ:  30
+
+[31mBook error[0m
+[31m0[0m
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:47:38.014015
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:47:38.166601
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:47:38.309402
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:47:38.457300
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:47:38.601448
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:47:38.739983
+MPQ:  30
+
+[31mBook error[0m
+[31m0[0m
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:47:49.003717
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:47:49.145731
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:47:49.291732
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:47:49.431394
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:47:49.571998
+MPQ:  30
+
+[31mBook error[0m
+[31m0[0m
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:47:59.835764
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:47:59.982909
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:48:00.132839
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:48:00.270106
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:48:00.420973
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:48:00.573764
+MPQ:  30
+
+[31mBook error[0m
+[31m0[0m
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:48:10.833734
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:48:10.979015
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:48:11.122201
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:48:11.266928
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:48:11.416481
+MPQ:  30
+
+[31mBook error[0m
+[31m0[0m
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:48:21.750452
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:48:21.896488
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:48:22.035056
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:48:22.169466
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:48:22.308740
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:48:22.459960
+MPQ:  30
+
+[31mBook error[0m
+[31m0[0m
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:48:32.739093
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:48:32.881642
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:48:33.025770
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:48:33.178824
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:48:33.323714
+MPQ:  30
+
+[31mBook error[0m
+[31m0[0m
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:48:43.585526
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:48:43.729589
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:48:43.872824
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:48:44.013690
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:48:44.162853
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:48:44.308228
+MPQ:  30
+
+[31mBook error[0m
+[31m0[0m
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:48:54.568741
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:48:54.715172
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:48:54.864876
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:48:55.001710
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:48:55.143224
+MPQ:  30
+
+[31mBook error[0m
+[31m0[0m
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:49:05.405705
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:49:05.544928
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:49:05.690210
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:49:05.830279
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:49:05.977574
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:49:06.122735
+MPQ:  30
+
+[31mBook error[0m
+[31m0[0m
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:49:16.388387
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:49:16.537329
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:49:16.680889
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:49:16.820643
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:49:16.961417
+MPQ:  30
+
+[31mBook error[0m
+[31m0[0m
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:49:27.223588
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:49:27.370208
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:49:27.510708
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:49:27.653553
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:49:27.798749
+MPQ:  30
+
+[31mBook error[0m
+[31m0[0m
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:49:38.089165
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:49:38.244053
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:49:38.386008
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:49:38.530723
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:49:38.671664
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:49:38.818185
+MPQ:  30
+
+[31mBook error[0m
+[31m0[0m
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:49:49.089931
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:49:49.236406
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:49:49.371773
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:49:49.514714
+MPQ:  30
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:49:49.665976
+MPQ:  30
+
+[31mBook error[0m
+[31m0[0m
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+test_reversed_long
+2020-09-15 23:49:59.928428
+MPQ:  0
+[32mPrice Diff: [0m 10875.5  -  10885  =  [32m-9.5[0m
+
+[32mTake Profit[0m
+
+Order:  0
+Qty:  0
+
+Brak pozycji i zleceń
+
+RSI value:  64
+
+W8 4 RSI
+Czekaj  70 sekund
+
+RSI value:  63
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  63
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  52
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  47
+
+W8 4 RSI
+Czekaj  59 sekund
+
+RSI value:  46
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  47
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  46
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  42
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  45
+
+W8 4 RSI
+Czekaj  59 sekund
+
+RSI value:  51
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  55
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  51
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  45
+
+W8 4 RSI
+Czekaj  59 sekund
+
+RSI value:  50
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  50
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  48
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  46
+
+W8 4 RSI
+Czekaj  59 sekund
+
+RSI value:  52
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  51
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  53
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  49
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  46
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  44
+
+W8 4 RSI
+Czekaj  59 sekund
+
+RSI value:  47
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  49
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  53
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  54
+
+W8 4 RSI
+Czekaj  60 sekund
+Error : Connection is already closed.
+
+RSI value:  56
+
+W8 4 RSI
+Czekaj  59 sekund
+
+RSI value:  53
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  40
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  43
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  32
+
+W8 4 RSI
+Czekaj  60 sekund
+
+RSI value:  30
+
+[32mgoing_long[0m
+2020-09-16 00:23:21.159513
+10889
+Error
+400 Bad Request: {'error': {'message': 'Executing at order price would lead to immediate liquidation', 'name': 'ValidationError'}}
+
+Order:  0
+Qty:  0
+
+Brak pozycji i zleceń
+
+RSI value:  30
+
+[32mgoing_long[0m
+2020-09-16 00:23:31.654881
+10876
+order id:  55743294-74d4-2220-333c-8ba14afc2384
+order status:  New
+[32mClose order submitted[0m
+
+Watching
+
+Order:  1
+Qty:  0
+
+Brak pozycji
+
+Watching
+Side:  [32mBuy[0m
+RSI_value:  30
+
+Watching
+Side:  [32mBuy[0m
+Traceback (most recent call last):
+  File "testing.py", line 1043, in <module>
+    start(my_size)
+  File "testing.py", line 1021, in start
+    watch_position(my_size)
+  File "testing.py", line 838, in watch_position
+    change_close()
+  File "testing.py", line 191, in change_close
+    client.Order.Order_amend(orderID=order_id, price=new_price).result()
+  File "/home/mrstefan_master/.local/lib/python3.6/site-packages/bravado/http_future.py", line 271, in result
+    swagger_result = self._get_swagger_result(incoming_response)
+  File "/home/mrstefan_master/.local/lib/python3.6/site-packages/bravado/http_future.py", line 124, in wrapper
+    return func(self, *args, **kwargs)
+  File "/home/mrstefan_master/.local/lib/python3.6/site-packages/bravado/http_future.py", line 303, in _get_swagger_result
+    self.request_config.response_callbacks,
+  File "/home/mrstefan_master/.local/lib/python3.6/site-packages/bravado/http_future.py", line 353, in unmarshal_response
+    raise_on_expected(incoming_response)
+  File "/home/mrstefan_master/.local/lib/python3.6/site-packages/bravado/http_future.py", line 422, in raise_on_expected
+    swagger_result=http_response.swagger_result)
+bravado.exception.HTTPBadRequest: 400 Bad Request: {'error': {'message': 'Invalid ordStatus', 'name': 'HTTPError'}}
